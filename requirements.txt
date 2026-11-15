@@ -1,0 +1,15 @@
+# Colab already provides torch, numpy, pandas, scipy, scikit-learn, matplotlib.
+# Versions are left unpinned so pip does not replace Colab's preinstalled builds.
+numpy
+pandas
+scipy
+scikit-learn
+matplotlib
+tqdm
+soundfile    # read wav/flac headers and audio
+mutagen      # read mp3 durations from headers (fast, no decoding)
+librosa      # log-mel spectrograms (Task 4)
+pyarrow      # parquet price cache (Task 3)
+yfinance     # daily prices (Task 3)
+rapidfuzz    # company name -> ticker fuzzy matching (Task 2)
+opensmile    # eGeMAPS baseline (Task 6)
