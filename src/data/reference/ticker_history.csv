@@ -1,0 +1,60 @@
+ticker,yf_ticker,status,event
+PCLN,BKNG,renamed,Priceline Group renamed Booking Holdings (2018); same listed company
+COH,TPR,renamed,Coach renamed Tapestry (2017); same listed company
+FB,META,renamed,Facebook renamed Meta Platforms (2022)
+ANTM,ELV,renamed,Anthem renamed Elevance Health (2022)
+CBG,CBRE,renamed,CBRE Group ticker changed to CBRE (2018)
+HCN,WELL,renamed,Welltower ticker changed to WELL (2018)
+BLL,BALL,renamed,Ball Corp ticker changed to BALL (2022)
+ABC,COR,renamed,AmerisourceBergen renamed Cencora (2023)
+GPS,GAP,renamed,Gap Inc ticker changed to GAP (2024)
+PKI,RVTY,renamed,PerkinElmer renamed Revvity (2023)
+FLT,CPAY,renamed,FleetCor renamed Corpay (2024)
+FBHS,FBIN,renamed,Fortune Brands Home & Security renamed Fortune Brands Innovations (2022)
+KORS,CPRI,renamed,Michael Kors Holdings renamed Capri Holdings (2018)
+HRS,LHX,renamed,Harris merged with L3 and renamed L3Harris (2019); Harris was the legal survivor
+UTX,RTX,renamed,United Technologies merged with Raytheon and renamed RTX (2020); UTX was the legal survivor
+SYMC,GEN,renamed,Symantec renamed NortonLifeLock (NLOK) then Gen Digital (GEN)
+CTL,LUMN,renamed,CenturyLink renamed Lumen Technologies (2020)
+IR,TT,renamed,Ingersoll-Rand plc renamed Trane Technologies (2020). Today's ticker IR is a DIFFERENT company (ex-Gardner Denver)
+ADS,BFH,renamed,Alliance Data Systems renamed Bread Financial (2022)
+MYL,VTRS,check,Mylan merged with Upjohn into Viatris (2020); Viatris price history may not include Mylan's 2017 prices
+CBS,PSKY,check,CBS merged with Viacom (ViacomCBS/Paramount Global PARA) then Skydance (Paramount Skydance PSKY 2025); history continuity unknown
+VIAB,,delisted,Viacom merged into CBS (2019)
+RTN,,delisted,Raytheon Co merged into United Technologies (2020)
+AET,,delisted,Aetna acquired by CVS Health (2018)
+CA,,delisted,CA Inc acquired by Broadcom (2018)
+GGP,,delisted,General Growth Properties acquired by Brookfield Property Partners (2018)
+XL,,delisted,XL Group acquired by AXA (2018)
+CELG,,delisted,Celgene acquired by Bristol-Myers Squibb (2019)
+RHT,,delisted,Red Hat acquired by IBM (2019)
+SCG,,delisted,SCANA acquired by Dominion Energy (2019)
+STI,,delisted,SunTrust merged with BB&T into Truist (2019); BB&T was the legal survivor
+AGN,,delisted,Allergan acquired by AbbVie (2020)
+NBL,,delisted,Noble Energy acquired by Chevron (2020)
+TIF,,delisted,Tiffany acquired by LVMH (2021)
+ALXN,,delisted,Alexion acquired by AstraZeneca (2021)
+VAR,,delisted,Varian Medical Systems acquired by Siemens Healthineers (2021)
+FLIR,,delisted,FLIR Systems acquired by Teledyne (2021)
+XEC,,delisted,Cimarex merged with Cabot into Coterra (2021); Cabot was the legal survivor
+KSU,,delisted,Kansas City Southern acquired by Canadian Pacific (2023)
+XLNX,,delisted,Xilinx acquired by AMD (2022)
+CTXS,,delisted,Citrix taken private (2022)
+NLSN,,delisted,Nielsen taken private (2022)
+TWTR,,delisted,Twitter taken private (2022)
+ABMD,,delisted,ABIOMED acquired by Johnson & Johnson (2022)
+ATVI,,delisted,Activision Blizzard acquired by Microsoft (2023)
+SIVB,,delisted,SVB Financial failed (2023)
+DISH,,delisted,DISH Network merged into EchoStar (2023)
+WRK,,delisted,WestRock merged with Smurfit Kappa (2024)
+SRCL,,delisted,Stericycle acquired by Waste Management (2024)
+HES,,delisted,Hess acquired by Chevron (2025)
+JNPR,,delisted,Juniper Networks acquired by Hewlett Packard Enterprise (2025)
+WBA,,delisted,Walgreens Boots Alliance taken private (2025)
+JWN,,delisted,Nordstrom taken private (2025)
+IPG,IPG,check,Interpublic acquisition by Omnicom announced 2024; may have closed and delisted
+K,K,check,Kellogg (later Kellanova) acquisition by Mars announced 2024; may have closed and delisted
+HBI,HBI,check,Hanesbrands acquisition by Gildan announced 2025; may have closed and delisted
+HOLX,HOLX,check,Hologic take-private announced 2025; may have closed and delisted
+EA,EA,check,Electronic Arts take-private announced 2025; may have closed and delisted
+NSC,NSC,check,Norfolk Southern merger with Union Pacific announced 2025; may have closed and delisted

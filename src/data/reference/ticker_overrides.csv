@@ -1,0 +1,4 @@
+company,ticker,reason
+XL Group,XL,"Fuzzy match picks American Airlines Group (0.85); the 2017 S&P list names XL as 'XL Capital'. XL Group Ltd traded as XL in 2017."
+Booking Holdings Inc,PCLN,"Matched BKNG from the 2018 list; the company was Priceline Group (PCLN) at both 2017 calls and renamed in Feb 2018."
+"Tapestry, Inc.",COH,"Matched TPR from the 2018 list; the company was Coach Inc (COH) at its 2017-01-31 call and renamed in Oct 2017."
