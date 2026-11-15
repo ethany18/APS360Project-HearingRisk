@@ -1,0 +1,39 @@
+{
+  "n_calls": 572,
+  "n_companies": 280,
+  "n_text_lines": 89722,
+  "n_audio_files": 89722,
+  "n_unreadable_audio": 1,
+  "audio_hours": 212.931,
+  "clips_per_call": {
+    "min": 1,
+    "median": 146.0,
+    "max": 522
+  },
+  "date_min": "2017-01-17",
+  "date_max": "2017-12-21",
+  "n_calls_line_audio_mismatch": 0,
+  "n_calls_with_any_problem": 1,
+  "checks": {
+    "expected_calls_approx": 572,
+    "expected_clips_approx": 89000,
+    "calls_within_5pct": true,
+    "clips_within_5pct": true,
+    "all_lines_match_audio": true
+  },
+  "config": {
+    "script": "src/data/inventory.py",
+    "root": "/content/data/mdrm",
+    "audio_extensions": [
+      ".wav",
+      ".mp3",
+      ".flac",
+      ".m4a",
+      ".ogg"
+    ],
+    "text_line_rule": "non-empty lines of Text.txt (or the only .txt) in the call folder",
+    "duration_source": "file headers (soundfile for wav/flac, mutagen for mp3)",
+    "created": "2026-11-15T20:28:39",
+    "runtime_seconds": 52.9
+  }
+}

@@ -1,0 +1,2 @@
+folder,company,date,n_text_lines,n_audio_files,audio_seconds,n_unreadable_audio,n_text_files,lines_match_audio,rel_path,problem
+Ventas Inc_20171027,Ventas Inc,2017-10-27,158,158,1409.593,1,1,True,ACL19_Release/Ventas Inc_20171027,1 unreadable audio

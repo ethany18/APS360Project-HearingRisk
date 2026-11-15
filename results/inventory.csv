@@ -1,0 +1,573 @@
+folder,company,date,n_text_lines,n_audio_files,audio_seconds,n_unreadable_audio,n_text_files,lines_match_audio,rel_path
+Comerica Inc._20170117,Comerica Inc.,2017-01-17,138,138,1158.713,0,1,True,ACL19_Release/Comerica Inc._20170117
+Citigroup Inc._20170118,Citigroup Inc.,2017-01-18,249,249,3292.526,0,1,True,ACL19_Release/Citigroup Inc._20170118
+Goldman Sachs Group_20170118,Goldman Sachs Group,2017-01-18,12,12,79.778,0,1,True,ACL19_Release/Goldman Sachs Group_20170118
+PPG Industries_20170119,PPG Industries,2017-01-19,283,283,2066.704,0,1,True,ACL19_Release/PPG Industries_20170119
+Skyworks Solutions_20170119,Skyworks Solutions,2017-01-19,284,284,1876.219,0,1,True,ACL19_Release/Skyworks Solutions_20170119
+Kansas City Southern_20170120,Kansas City Southern,2017-01-20,117,117,974.158,0,1,True,ACL19_Release/Kansas City Southern_20170120
+SunTrust Banks_20170120,SunTrust Banks,2017-01-20,183,183,2110.015,0,1,True,ACL19_Release/SunTrust Banks_20170120
+ResMed_20170123,ResMed,2017-01-23,199,199,1730.691,0,1,True,ACL19_Release/ResMed_20170123
+Corning Inc._20170124,Corning Inc.,2017-01-24,163,163,1514.553,0,1,True,ACL19_Release/Corning Inc._20170124
+D. R. Horton_20170124,D. R. Horton,2017-01-24,16,16,143.334,0,1,True,ACL19_Release/D. R. Horton_20170124
+Fifth Third Bancorp_20170124,Fifth Third Bancorp,2017-01-24,167,167,1955.291,0,1,True,ACL19_Release/Fifth Third Bancorp_20170124
+Kimberly-Clark_20170124,Kimberly-Clark,2017-01-24,265,265,2132.376,0,1,True,ACL19_Release/Kimberly-Clark_20170124
+Lockheed Martin Corp._20170124,Lockheed Martin Corp.,2017-01-24,152,152,1871.987,0,1,True,ACL19_Release/Lockheed Martin Corp._20170124
+Seagate Technology_20170124,Seagate Technology,2017-01-24,46,46,528.065,0,1,True,ACL19_Release/Seagate Technology_20170124
+Texas Instruments_20170124,Texas Instruments,2017-01-24,114,114,867.84,0,1,True,ACL19_Release/Texas Instruments_20170124
+Verizon Communications_20170124,Verizon Communications,2017-01-24,331,331,3034.096,0,1,True,ACL19_Release/Verizon Communications_20170124
+WestRock_20170124,WestRock,2017-01-24,190,190,1569.646,0,1,True,ACL19_Release/WestRock_20170124
+F5 Networks_20170125,F5 Networks,2017-01-25,157,157,1490.73,0,1,True,ACL19_Release/F5 Networks_20170125
+Grainger (W.W.) Inc._20170125,Grainger (W.W.) Inc.,2017-01-25,113,113,763.246,0,1,True,ACL19_Release/Grainger (W.W.) Inc._20170125
+Hess Corporation_20170125,Hess Corporation,2017-01-25,135,135,1587.304,0,1,True,ACL19_Release/Hess Corporation_20170125
+Lam Research_20170125,Lam Research,2017-01-25,111,111,835.736,0,1,True,ACL19_Release/Lam Research_20170125
+Rockwell Automation Inc._20170125,Rockwell Automation Inc.,2017-01-25,170,170,1516.774,0,1,True,ACL19_Release/Rockwell Automation Inc._20170125
+TE Connectivity Ltd._20170125,TE Connectivity Ltd.,2017-01-25,216,216,2022.034,0,1,True,ACL19_Release/TE Connectivity Ltd._20170125
+Varian Medical Systems_20170125,Varian Medical Systems,2017-01-25,130,130,1062.766,0,1,True,ACL19_Release/Varian Medical Systems_20170125
+eBay Inc._20170125,eBay Inc.,2017-01-25,183,183,1706.632,0,1,True,ACL19_Release/eBay Inc._20170125
+Alliance Data Systems_20170126,Alliance Data Systems,2017-01-26,59,59,532.114,0,1,True,ACL19_Release/Alliance Data Systems_20170126
+Biogen Inc._20170126,Biogen Inc.,2017-01-26,106,106,830.955,0,1,True,ACL19_Release/Biogen Inc._20170126
+Caterpillar Inc._20170126,Caterpillar Inc.,2017-01-26,280,280,2338.664,0,1,True,ACL19_Release/Caterpillar Inc._20170126
+Celgene Corp._20170126,Celgene Corp.,2017-01-26,142,142,959.399,0,1,True,ACL19_Release/Celgene Corp._20170126
+Comcast Corp._20170126,Comcast Corp.,2017-01-26,128,128,1273.287,0,1,True,ACL19_Release/Comcast Corp._20170126
+Microsoft Corp._20170126,Microsoft Corp.,2017-01-26,190,190,1555.148,0,1,True,ACL19_Release/Microsoft Corp._20170126
+PayPal_20170126,PayPal,2017-01-26,151,151,1668.807,0,1,True,ACL19_Release/PayPal_20170126
+SVB Financial_20170126,SVB Financial,2017-01-26,169,169,1326.759,0,1,True,ACL19_Release/SVB Financial_20170126
+Starbucks Corp._20170126,Starbucks Corp.,2017-01-26,118,118,994.847,0,1,True,ACL19_Release/Starbucks Corp._20170126
+Chevron Corp._20170127,Chevron Corp.,2017-01-27,56,56,413.309,0,1,True,ACL19_Release/Chevron Corp._20170127
+Franklin Resources_20170127,Franklin Resources,2017-01-27,102,102,1072.353,0,1,True,ACL19_Release/Franklin Resources_20170127
+General Dynamics_20170127,General Dynamics,2017-01-27,189,189,1985.62,0,1,True,ACL19_Release/General Dynamics_20170127
+Aetna Inc_20170131,Aetna Inc,2017-01-31,119,119,1289.091,0,1,True,ACL19_Release/Aetna Inc_20170131
+Align Technology_20170131,Align Technology,2017-01-31,113,113,1146.305,0,1,True,ACL19_Release/Align Technology_20170131
+AmerisourceBergen Corp_20170131,AmerisourceBergen Corp,2017-01-31,134,134,1203.54,0,1,True,ACL19_Release/AmerisourceBergen Corp_20170131
+Illumina Inc_20170131,Illumina Inc,2017-01-31,65,65,680.829,0,1,True,ACL19_Release/Illumina Inc_20170131
+Lilly (Eli) & Co._20170131,Lilly (Eli) & Co.,2017-01-31,103,103,851.827,0,1,True,ACL19_Release/Lilly (Eli) & Co._20170131
+Mastercard Inc._20170131,Mastercard Inc.,2017-01-31,262,262,2035.304,0,1,True,ACL19_Release/Mastercard Inc._20170131
+"Nasdaq, Inc._20170131","Nasdaq, Inc.",2017-01-31,235,235,2430.903,0,1,True,"ACL19_Release/Nasdaq, Inc._20170131"
+"Tapestry, Inc._20170131","Tapestry, Inc.",2017-01-31,135,135,1466.384,0,1,True,"ACL19_Release/Tapestry, Inc._20170131"
+Valero Energy_20170131,Valero Energy,2017-01-31,152,152,1050.018,0,1,True,ACL19_Release/Valero Energy_20170131
+Anthem Inc._20170201,Anthem Inc.,2017-02-01,143,143,1434.279,0,1,True,ACL19_Release/Anthem Inc._20170201
+Automatic Data Processing_20170201,Automatic Data Processing,2017-02-01,168,168,1926.139,0,1,True,ACL19_Release/Automatic Data Processing_20170201
+Avery Dennison Corp_20170201,Avery Dennison Corp,2017-02-01,82,82,862.354,0,1,True,ACL19_Release/Avery Dennison Corp_20170201
+Edwards Lifesciences_20170201,Edwards Lifesciences,2017-02-01,291,291,1991.832,0,1,True,ACL19_Release/Edwards Lifesciences_20170201
+Hologic_20170201,Hologic,2017-02-01,196,196,1674.762,0,1,True,ACL19_Release/Hologic_20170201
+Ingersoll-Rand PLC_20170201,Ingersoll-Rand PLC,2017-02-01,135,135,1314.011,0,1,True,ACL19_Release/Ingersoll-Rand PLC_20170201
+Johnson Controls International_20170201,Johnson Controls International,2017-02-01,79,79,821.472,0,1,True,ACL19_Release/Johnson Controls International_20170201
+PPL Corp._20170201,PPL Corp.,2017-02-01,133,133,1153.306,0,1,True,ACL19_Release/PPL Corp._20170201
+Tractor Supply Company_20170201,Tractor Supply Company,2017-02-01,67,67,540.108,0,1,True,ACL19_Release/Tractor Supply Company_20170201
+Wec Energy Group Inc_20170201,Wec Energy Group Inc,2017-02-01,184,184,1669.825,0,1,True,ACL19_Release/Wec Energy Group Inc_20170201
+Amazon.com Inc._20170202,Amazon.com Inc.,2017-02-02,59,59,485.46,0,1,True,ACL19_Release/Amazon.com Inc._20170202
+CIGNA Corp._20170202,CIGNA Corp.,2017-02-02,237,237,2067.357,0,1,True,ACL19_Release/CIGNA Corp._20170202
+CMS Energy_20170202,CMS Energy,2017-02-02,1,1,1.149,0,1,True,ACL19_Release/CMS Energy_20170202
+Estee Lauder Cos._20170202,Estee Lauder Cos.,2017-02-02,218,218,2031.02,0,1,True,ACL19_Release/Estee Lauder Cos._20170202
+Gartner Inc_20170202,Gartner Inc,2017-02-02,214,214,2171.376,0,1,True,ACL19_Release/Gartner Inc_20170202
+International Paper_20170202,International Paper,2017-02-02,135,135,1439.66,0,1,True,ACL19_Release/International Paper_20170202
+Merck & Co._20170202,Merck & Co.,2017-02-02,86,86,633.678,0,1,True,ACL19_Release/Merck & Co._20170202
+Parker-Hannifin_20170202,Parker-Hannifin,2017-02-02,63,63,434.364,0,1,True,ACL19_Release/Parker-Hannifin_20170202
+Polo Ralph Lauren Corp._20170202,Polo Ralph Lauren Corp.,2017-02-02,180,180,1659.298,0,1,True,ACL19_Release/Polo Ralph Lauren Corp._20170202
+Snap-On Inc._20170202,Snap-On Inc.,2017-02-02,299,299,2320.196,0,1,True,ACL19_Release/Snap-On Inc._20170202
+Xcel Energy Inc_20170202,Xcel Energy Inc,2017-02-02,218,218,1471.817,0,1,True,ACL19_Release/Xcel Energy Inc_20170202
+LyondellBasell_20170203,LyondellBasell,2017-02-03,39,39,435.54,0,1,True,ACL19_Release/LyondellBasell_20170203
+The Clorox Company_20170203,The Clorox Company,2017-02-03,95,95,907.964,0,1,True,ACL19_Release/The Clorox Company_20170203
+The Hershey Company_20170203,The Hershey Company,2017-02-03,96,96,770.847,0,1,True,ACL19_Release/The Hershey Company_20170203
+Weyerhaeuser_20170203,Weyerhaeuser,2017-02-03,241,241,2201.966,0,1,True,ACL19_Release/Weyerhaeuser_20170203
+Hasbro Inc._20170206,Hasbro Inc.,2017-02-06,255,255,1976.921,0,1,True,ACL19_Release/Hasbro Inc._20170206
+Newell Brands_20170206,Newell Brands,2017-02-06,102,102,947.409,0,1,True,ACL19_Release/Newell Brands_20170206
+Tyson Foods_20170206,Tyson Foods,2017-02-06,272,272,1978.253,0,1,True,ACL19_Release/Tyson Foods_20170206
+AMETEK Inc._20170207,AMETEK Inc.,2017-02-07,355,355,2667.52,0,1,True,ACL19_Release/AMETEK Inc._20170207
+Akamai Technologies Inc_20170207,Akamai Technologies Inc,2017-02-07,217,217,1907.879,0,1,True,ACL19_Release/Akamai Technologies Inc_20170207
+Archer-Daniels-Midland Co_20170207,Archer-Daniels-Midland Co,2017-02-07,78,78,700.212,0,1,True,ACL19_Release/Archer-Daniels-Midland Co_20170207
+Emerson Electric Company_20170207,Emerson Electric Company,2017-02-07,522,522,2963.435,0,1,True,ACL19_Release/Emerson Electric Company_20170207
+Fidelity National Information Services_20170207,Fidelity National Information Services,2017-02-07,148,148,1131.128,0,1,True,ACL19_Release/Fidelity National Information Services_20170207
+Fortive Corp_20170207,Fortive Corp,2017-02-07,275,275,2214.348,0,1,True,ACL19_Release/Fortive Corp_20170207
+General Motors_20170207,General Motors,2017-02-07,183,183,1590.988,0,1,True,ACL19_Release/General Motors_20170207
+Intercontinental Exchange_20170207,Intercontinental Exchange,2017-02-07,127,127,1090.464,0,1,True,ACL19_Release/Intercontinental Exchange_20170207
+Michael Kors Holdings_20170207,Michael Kors Holdings,2017-02-07,249,249,2413.453,0,1,True,ACL19_Release/Michael Kors Holdings_20170207
+The Walt Disney Company_20170207,The Walt Disney Company,2017-02-07,97,97,857.887,0,1,True,ACL19_Release/The Walt Disney Company_20170207
+TransDigm Group_20170207,TransDigm Group,2017-02-07,347,347,2149.042,0,1,True,ACL19_Release/TransDigm Group_20170207
+Alaska Air Group Inc_20170208,Alaska Air Group Inc,2017-02-08,115,115,791.406,0,1,True,ACL19_Release/Alaska Air Group Inc_20170208
+Activision Blizzard_20170209,Activision Blizzard,2017-02-09,89,89,839.811,0,1,True,ACL19_Release/Activision Blizzard_20170209
+Allegion_20170209,Allegion,2017-02-09,134,134,1255.367,0,1,True,ACL19_Release/Allegion_20170209
+BorgWarner_20170209,BorgWarner,2017-02-09,253,253,2029.949,0,1,True,ACL19_Release/BorgWarner_20170209
+CVS Health_20170209,CVS Health,2017-02-09,219,219,2075.272,0,1,True,ACL19_Release/CVS Health_20170209
+Coca-Cola Company (The)_20170209,Coca-Cola Company (The),2017-02-09,147,147,1336.477,0,1,True,ACL19_Release/Coca-Cola Company (The)_20170209
+"Coty, Inc_20170209","Coty, Inc",2017-02-09,211,211,2066.834,0,1,True,"ACL19_Release/Coty, Inc_20170209"
+Roper Technologies_20170209,Roper Technologies,2017-02-09,181,181,1511.419,0,1,True,ACL19_Release/Roper Technologies_20170209
+Sealed Air_20170209,Sealed Air,2017-02-09,186,186,2103.98,0,1,True,ACL19_Release/Sealed Air_20170209
+"Twitter, Inc._20170209","Twitter, Inc.",2017-02-09,113,113,1032.49,0,1,True,"ACL19_Release/Twitter, Inc._20170209"
+Yum! Brands Inc_20170209,Yum! Brands Inc,2017-02-09,216,216,1617.45,0,1,True,ACL19_Release/Yum! Brands Inc_20170209
+Interpublic Group_20170210,Interpublic Group,2017-02-10,118,118,959.608,0,1,True,ACL19_Release/Interpublic Group_20170210
+Agilent Technologies Inc_20170214,Agilent Technologies Inc,2017-02-14,249,249,1660.63,0,1,True,ACL19_Release/Agilent Technologies Inc_20170214
+Incyte_20170214,Incyte,2017-02-14,67,67,674.856,0,1,True,ACL19_Release/Incyte_20170214
+Martin Marietta Materials_20170214,Martin Marietta Materials,2017-02-14,468,468,3540.846,0,1,True,ACL19_Release/Martin Marietta Materials_20170214
+Cisco Systems_20170215,Cisco Systems,2017-02-15,115,115,754.73,0,1,True,ACL19_Release/Cisco Systems_20170215
+Hilton Worldwide Holdings Inc_20170215,Hilton Worldwide Holdings Inc,2017-02-15,313,313,2816.232,0,1,True,ACL19_Release/Hilton Worldwide Holdings Inc_20170215
+Kraft Heinz Co_20170215,Kraft Heinz Co,2017-02-15,104,104,1083.35,0,1,True,ACL19_Release/Kraft Heinz Co_20170215
+NetApp_20170215,NetApp,2017-02-15,183,183,1747.801,0,1,True,ACL19_Release/NetApp_20170215
+PepsiCo Inc._20170215,PepsiCo Inc.,2017-02-15,134,134,1159.367,0,1,True,ACL19_Release/PepsiCo Inc._20170215
+Synopsys Inc._20170215,Synopsys Inc.,2017-02-15,229,229,2049.985,0,1,True,ACL19_Release/Synopsys Inc._20170215
+Ameren Corp_20170216,Ameren Corp,2017-02-16,103,103,1136.927,0,1,True,ACL19_Release/Ameren Corp_20170216
+Digital Realty Trust Inc_20170216,Digital Realty Trust Inc,2017-02-16,172,172,1776.065,0,1,True,ACL19_Release/Digital Realty Trust Inc_20170216
+Republic Services Inc_20170216,Republic Services Inc,2017-02-16,98,98,703.06,0,1,True,ACL19_Release/Republic Services Inc_20170216
+Waste Management Inc._20170216,Waste Management Inc.,2017-02-16,49,49,577.802,0,1,True,ACL19_Release/Waste Management Inc._20170216
+Campbell Soup_20170217,Campbell Soup,2017-02-17,220,220,1748.637,0,1,True,ACL19_Release/Campbell Soup_20170217
+Ecolab Inc._20170221,Ecolab Inc.,2017-02-21,36,36,325.728,0,1,True,ACL19_Release/Ecolab Inc._20170221
+Genuine Parts_20170221,Genuine Parts,2017-02-21,141,141,1393.371,0,1,True,ACL19_Release/Genuine Parts_20170221
+Henry Schein_20170221,Henry Schein,2017-02-21,137,137,1336.633,0,1,True,ACL19_Release/Henry Schein_20170221
+Home Depot_20170221,Home Depot,2017-02-21,142,142,1163.076,0,1,True,ACL19_Release/Home Depot_20170221
+Quanta Services Inc._20170221,Quanta Services Inc.,2017-02-21,194,194,1369.783,0,1,True,ACL19_Release/Quanta Services Inc._20170221
+Dish Network_20170222,Dish Network,2017-02-22,11,11,69.12,0,1,True,ACL19_Release/Dish Network_20170222
+Garmin Ltd._20170222,Garmin Ltd.,2017-02-22,144,144,1177.443,0,1,True,ACL19_Release/Garmin Ltd._20170222
+HP Inc._20170222,HP Inc.,2017-02-22,134,134,1093.799,0,1,True,ACL19_Release/HP Inc._20170222
+Norwegian Cruise Line_20170222,Norwegian Cruise Line,2017-02-22,78,78,923.063,0,1,True,ACL19_Release/Norwegian Cruise Line_20170222
+Apache Corporation_20170223,Apache Corporation,2017-02-23,260,260,2092.042,0,1,True,ACL19_Release/Apache Corporation_20170223
+Gap Inc._20170223,Gap Inc.,2017-02-23,327,327,2387.827,0,1,True,ACL19_Release/Gap Inc._20170223
+Hormel Foods Corp._20170223,Hormel Foods Corp.,2017-02-23,257,257,1882.175,0,1,True,ACL19_Release/Hormel Foods Corp._20170223
+Intuit Inc._20170223,Intuit Inc.,2017-02-23,229,229,1482.527,0,1,True,ACL19_Release/Intuit Inc._20170223
+Iron Mountain Incorporated_20170223,Iron Mountain Incorporated,2017-02-23,139,139,1186.873,0,1,True,ACL19_Release/Iron Mountain Incorporated_20170223
+Kohl's Corp._20170223,Kohl's Corp.,2017-02-23,198,198,1836.042,0,1,True,ACL19_Release/Kohl's Corp._20170223
+Nordstrom_20170223,Nordstrom,2017-02-23,115,115,961.724,0,1,True,ACL19_Release/Nordstrom_20170223
+Foot Locker Inc_20170224,Foot Locker Inc,2017-02-24,93,93,923.324,0,1,True,ACL19_Release/Foot Locker Inc_20170224
+Pinnacle West Capital_20170224,Pinnacle West Capital,2017-02-24,67,67,671.242,0,1,True,ACL19_Release/Pinnacle West Capital_20170224
+American Tower Corp A_20170227,American Tower Corp A,2017-02-27,194,194,1819.951,0,1,True,ACL19_Release/American Tower Corp A_20170227
+NRG Energy_20170228,NRG Energy,2017-02-28,178,178,1920.601,0,1,True,ACL19_Release/NRG Energy_20170228
+Ross Stores_20170228,Ross Stores,2017-02-28,85,85,686.707,0,1,True,ACL19_Release/Ross Stores_20170228
+Salesforce.com_20170228,Salesforce.com,2017-02-28,145,145,820.219,0,1,True,ACL19_Release/Salesforce.com_20170228
+Nektar Therapeutics_20170301,Nektar Therapeutics,2017-03-01,72,72,920.033,0,1,True,ACL19_Release/Nektar Therapeutics_20170301
+Autodesk Inc._20170302,Autodesk Inc.,2017-03-02,85,85,779.05,0,1,True,ACL19_Release/Autodesk Inc._20170302
+Kroger Co._20170302,Kroger Co.,2017-03-02,118,118,1134.55,0,1,True,ACL19_Release/Kroger Co._20170302
+Ulta Beauty_20170309,Ulta Beauty,2017-03-09,169,169,1469.675,0,1,True,ACL19_Release/Ulta Beauty_20170309
+Adobe Systems Inc_20170316,Adobe Systems Inc,2017-03-16,155,155,1406.328,0,1,True,ACL19_Release/Adobe Systems Inc_20170316
+Nike_20170321,Nike,2017-03-21,181,181,1683.278,0,1,True,ACL19_Release/Nike_20170321
+Red Hat Inc._20170327,Red Hat Inc.,2017-03-27,107,107,1057.932,0,1,True,ACL19_Release/Red Hat Inc._20170327
+Walgreens Boots Alliance_20170405,Walgreens Boots Alliance,2017-04-05,118,118,1257.169,0,1,True,ACL19_Release/Walgreens Boots Alliance_20170405
+Comerica Inc._20170418,Comerica Inc.,2017-04-18,118,118,887.562,0,1,True,ACL19_Release/Comerica Inc._20170418
+Grainger (W.W.) Inc._20170418,Grainger (W.W.) Inc.,2017-04-18,222,222,1744.509,0,1,True,ACL19_Release/Grainger (W.W.) Inc._20170418
+Lam Research_20170418,Lam Research,2017-04-18,100,100,837.773,0,1,True,ACL19_Release/Lam Research_20170418
+United Health Group Inc._20170418,United Health Group Inc.,2017-04-18,90,90,890.253,0,1,True,ACL19_Release/United Health Group Inc._20170418
+American Express Co_20170419,American Express Co,2017-04-19,271,271,2733.479,0,1,True,ACL19_Release/American Express Co_20170419
+Kinder Morgan_20170419,Kinder Morgan,2017-04-19,210,210,1618.512,0,1,True,ACL19_Release/Kinder Morgan_20170419
+U.S. Bancorp_20170419,U.S. Bancorp,2017-04-19,194,194,1511.471,0,1,True,ACL19_Release/U.S. Bancorp_20170419
+eBay Inc._20170419,eBay Inc.,2017-04-19,25,25,53.316,0,1,True,ACL19_Release/eBay Inc._20170419
+Alliance Data Systems_20170420,Alliance Data Systems,2017-04-20,104,104,845.375,0,1,True,ACL19_Release/Alliance Data Systems_20170420
+Dover Corp._20170420,Dover Corp.,2017-04-20,127,127,954.54,0,1,True,ACL19_Release/Dover Corp._20170420
+Nucor Corp._20170420,Nucor Corp.,2017-04-20,56,56,412.369,0,1,True,ACL19_Release/Nucor Corp._20170420
+Quest Diagnostics_20170420,Quest Diagnostics,2017-04-20,166,166,1682.651,0,1,True,ACL19_Release/Quest Diagnostics_20170420
+Sherwin-Williams_20170420,Sherwin-Williams,2017-04-20,205,205,2120.62,0,1,True,ACL19_Release/Sherwin-Williams_20170420
+Verizon Communications_20170420,Verizon Communications,2017-04-20,275,275,2398.589,0,1,True,ACL19_Release/Verizon Communications_20170420
+Interpublic Group_20170421,Interpublic Group,2017-04-21,64,64,498.991,0,1,True,ACL19_Release/Interpublic Group_20170421
+Schlumberger Ltd._20170421,Schlumberger Ltd.,2017-04-21,224,224,2115.422,0,1,True,ACL19_Release/Schlumberger Ltd._20170421
+Hasbro Inc._20170424,Hasbro Inc.,2017-04-24,101,101,745.848,0,1,True,ACL19_Release/Hasbro Inc._20170424
+Illinois Tool Works_20170424,Illinois Tool Works,2017-04-24,122,122,989.1,0,1,True,ACL19_Release/Illinois Tool Works_20170424
+Kimberly-Clark_20170424,Kimberly-Clark,2017-04-24,204,204,1374.824,0,1,True,ACL19_Release/Kimberly-Clark_20170424
+3M Company_20170425,3M Company,2017-04-25,179,179,1782.439,0,1,True,ACL19_Release/3M Company_20170425
+AT&T Inc._20170425,AT&T Inc.,2017-04-25,227,227,1909.577,0,1,True,ACL19_Release/AT&T Inc._20170425
+Caterpillar Inc._20170425,Caterpillar Inc.,2017-04-25,114,114,1060.467,0,1,True,ACL19_Release/Caterpillar Inc._20170425
+Freeport-McMoRan Inc._20170425,Freeport-McMoRan Inc.,2017-04-25,301,301,3264.235,0,1,True,ACL19_Release/Freeport-McMoRan Inc._20170425
+Juniper Networks_20170425,Juniper Networks,2017-04-25,213,213,1693.205,0,1,True,ACL19_Release/Juniper Networks_20170425
+Lilly (Eli) & Co._20170425,Lilly (Eli) & Co.,2017-04-25,99,99,769.384,0,1,True,ACL19_Release/Lilly (Eli) & Co._20170425
+Lockheed Martin Corp._20170425,Lockheed Martin Corp.,2017-04-25,144,144,1381.721,0,1,True,ACL19_Release/Lockheed Martin Corp._20170425
+Texas Instruments_20170425,Texas Instruments,2017-04-25,117,117,911.073,0,1,True,ACL19_Release/Texas Instruments_20170425
+Valero Energy_20170425,Valero Energy,2017-04-25,99,99,735.608,0,1,True,ACL19_Release/Valero Energy_20170425
+Xerox_20170425,Xerox,2017-04-25,125,125,1317.59,0,1,True,ACL19_Release/Xerox_20170425
+Anthem Inc._20170426,Anthem Inc.,2017-04-26,189,189,2045.78,0,1,True,ACL19_Release/Anthem Inc._20170426
+Avery Dennison Corp_20170426,Avery Dennison Corp,2017-04-26,115,115,797.649,0,1,True,ACL19_Release/Avery Dennison Corp_20170426
+Baxter International Inc._20170426,Baxter International Inc.,2017-04-26,221,221,1867.076,0,1,True,ACL19_Release/Baxter International Inc._20170426
+Boeing Company_20170426,Boeing Company,2017-04-26,306,306,2507.781,0,1,True,ACL19_Release/Boeing Company_20170426
+F5 Networks_20170426,F5 Networks,2017-04-26,167,167,1353.509,0,1,True,ACL19_Release/F5 Networks_20170426
+General Dynamics_20170426,General Dynamics,2017-04-26,187,187,1791.216,0,1,True,ACL19_Release/General Dynamics_20170426
+Hess Corporation_20170426,Hess Corporation,2017-04-26,94,94,940.852,0,1,True,ACL19_Release/Hess Corporation_20170426
+Ingersoll-Rand PLC_20170426,Ingersoll-Rand PLC,2017-04-26,144,144,1286.922,0,1,True,ACL19_Release/Ingersoll-Rand PLC_20170426
+Norfolk Southern Corp._20170426,Norfolk Southern Corp.,2017-04-26,113,113,961.985,0,1,True,ACL19_Release/Norfolk Southern Corp._20170426
+PepsiCo Inc._20170426,PepsiCo Inc.,2017-04-26,173,173,1327.386,0,1,True,ACL19_Release/PepsiCo Inc._20170426
+Rockwell Automation Inc._20170426,Rockwell Automation Inc.,2017-04-26,168,168,1284.127,0,1,True,ACL19_Release/Rockwell Automation Inc._20170426
+Seagate Technology_20170426,Seagate Technology,2017-04-26,27,27,311.51,0,1,True,ACL19_Release/Seagate Technology_20170426
+The Hershey Company_20170426,The Hershey Company,2017-04-26,220,220,1620.48,0,1,True,ACL19_Release/The Hershey Company_20170426
+Thermo Fisher Scientific_20170426,Thermo Fisher Scientific,2017-04-26,235,235,1591.144,0,1,True,ACL19_Release/Thermo Fisher Scientific_20170426
+Tractor Supply Company_20170426,Tractor Supply Company,2017-04-26,89,89,829.179,0,1,True,ACL19_Release/Tractor Supply Company_20170426
+"Twitter, Inc._20170426","Twitter, Inc.",2017-04-26,50,50,212.402,0,1,True,"ACL19_Release/Twitter, Inc._20170426"
+WestRock_20170426,WestRock,2017-04-26,148,148,1278.276,0,1,True,ACL19_Release/WestRock_20170426
+Xilinx_20170426,Xilinx,2017-04-26,73,73,604.891,0,1,True,ACL19_Release/Xilinx_20170426
+AbbVie Inc._20170427,AbbVie Inc.,2017-04-27,133,133,1411.579,0,1,True,ACL19_Release/AbbVie Inc._20170427
+Align Technology_20170427,Align Technology,2017-04-27,206,206,1353.822,0,1,True,ACL19_Release/Align Technology_20170427
+Allegion_20170427,Allegion,2017-04-27,105,105,960.522,0,1,True,ACL19_Release/Allegion_20170427
+Amazon.com Inc._20170427,Amazon.com Inc.,2017-04-27,37,37,336.509,0,1,True,ACL19_Release/Amazon.com Inc._20170427
+American Tower Corp A_20170427,American Tower Corp A,2017-04-27,156,156,1498.41,0,1,True,ACL19_Release/American Tower Corp A_20170427
+Bristol-Myers Squibb_20170427,Bristol-Myers Squibb,2017-04-27,90,90,771.004,0,1,True,ACL19_Release/Bristol-Myers Squibb_20170427
+Celgene Corp._20170427,Celgene Corp.,2017-04-27,120,120,856.607,0,1,True,ACL19_Release/Celgene Corp._20170427
+Comcast Corp._20170427,Comcast Corp.,2017-04-27,104,104,962.403,0,1,True,ACL19_Release/Comcast Corp._20170427
+Digital Realty Trust Inc_20170427,Digital Realty Trust Inc,2017-04-27,226,226,2058.083,0,1,True,ACL19_Release/Digital Realty Trust Inc_20170427
+EQT Corporation_20170427,EQT Corporation,2017-04-27,49,49,503.376,0,1,True,ACL19_Release/EQT Corporation_20170427
+Ford Motor_20170427,Ford Motor,2017-04-27,327,327,2198.021,0,1,True,ACL19_Release/Ford Motor_20170427
+Intel Corp._20170427,Intel Corp.,2017-04-27,107,107,1100.591,0,1,True,ACL19_Release/Intel Corp._20170427
+Iron Mountain Incorporated_20170427,Iron Mountain Incorporated,2017-04-27,85,85,762.331,0,1,True,ACL19_Release/Iron Mountain Incorporated_20170427
+Johnson Controls International_20170427,Johnson Controls International,2017-04-27,139,139,1248.784,0,1,True,ACL19_Release/Johnson Controls International_20170427
+KLA-Tencor Corp._20170427,KLA-Tencor Corp.,2017-04-27,133,133,1119.478,0,1,True,ACL19_Release/KLA-Tencor Corp._20170427
+LKQ Corporation_20170427,LKQ Corporation,2017-04-27,193,193,1804.304,0,1,True,ACL19_Release/LKQ Corporation_20170427
+Microsoft Corp._20170427,Microsoft Corp.,2017-04-27,166,166,1538.56,0,1,True,ACL19_Release/Microsoft Corp._20170427
+Parker-Hannifin_20170427,Parker-Hannifin,2017-04-27,138,138,1008.797,0,1,True,ACL19_Release/Parker-Hannifin_20170427
+Raytheon Co._20170427,Raytheon Co.,2017-04-27,143,143,1340.238,0,1,True,ACL19_Release/Raytheon Co._20170427
+ResMed_20170427,ResMed,2017-04-27,252,252,1987.03,0,1,True,ACL19_Release/ResMed_20170427
+SCANA Corp_20170427,SCANA Corp,2017-04-27,108,108,956.082,0,1,True,ACL19_Release/SCANA Corp_20170427
+SVB Financial_20170427,SVB Financial,2017-04-27,157,157,1379.84,0,1,True,ACL19_Release/SVB Financial_20170427
+Skyworks Solutions_20170427,Skyworks Solutions,2017-04-27,209,209,1289.143,0,1,True,ACL19_Release/Skyworks Solutions_20170427
+Verisign Inc._20170427,Verisign Inc.,2017-04-27,40,40,459.192,0,1,True,ACL19_Release/Verisign Inc._20170427
+Chevron Corp._20170428,Chevron Corp.,2017-04-28,225,225,1772.356,0,1,True,ACL19_Release/Chevron Corp._20170428
+Franklin Resources_20170428,Franklin Resources,2017-04-28,16,16,112.797,0,1,True,ACL19_Release/Franklin Resources_20170428
+General Motors_20170428,General Motors,2017-04-28,144,144,1369.835,0,1,True,ACL19_Release/General Motors_20170428
+Goodyear Tire & Rubber_20170428,Goodyear Tire & Rubber,2017-04-28,152,152,1311.713,0,1,True,ACL19_Release/Goodyear Tire & Rubber_20170428
+Public Serv. Enterprise Inc._20170428,Public Serv. Enterprise Inc.,2017-04-28,112,112,1079.352,0,1,True,ACL19_Release/Public Serv. Enterprise Inc._20170428
+Weyerhaeuser_20170428,Weyerhaeuser,2017-04-28,249,249,1956.389,0,1,True,ACL19_Release/Weyerhaeuser_20170428
+Advanced Micro Devices Inc_20170501,Advanced Micro Devices Inc,2017-05-01,182,182,1496.216,0,1,True,ACL19_Release/Advanced Micro Devices Inc_20170501
+CMS Energy_20170501,CMS Energy,2017-05-01,191,191,1355.938,0,1,True,ACL19_Release/CMS Energy_20170501
+Cardinal Health Inc._20170501,Cardinal Health Inc.,2017-05-01,166,166,1541.695,0,1,True,ACL19_Release/Cardinal Health Inc._20170501
+Dish Network_20170501,Dish Network,2017-05-01,41,41,367.334,0,1,True,ACL19_Release/Dish Network_20170501
+Edison Int'l_20170501,Edison Int'l,2017-05-01,158,158,1345.933,0,1,True,ACL19_Release/Edison Int'l_20170501
+General Growth Properties Inc._20170501,General Growth Properties Inc.,2017-05-01,247,247,1753.94,0,1,True,ACL19_Release/General Growth Properties Inc._20170501
+Aetna Inc_20170502,Aetna Inc,2017-05-02,117,117,1144.268,0,1,True,ACL19_Release/Aetna Inc_20170502
+Akamai Technologies Inc_20170502,Akamai Technologies Inc,2017-05-02,198,198,1683.2,0,1,True,ACL19_Release/Akamai Technologies Inc_20170502
+Altria Group Inc_20170502,Altria Group Inc,2017-05-02,53,53,359.784,0,1,True,ACL19_Release/Altria Group Inc_20170502
+Archer-Daniels-Midland Co_20170502,Archer-Daniels-Midland Co,2017-05-02,93,93,731.298,0,1,True,ACL19_Release/Archer-Daniels-Midland Co_20170502
+DaVita Inc._20170502,DaVita Inc.,2017-05-02,66,66,434.129,0,1,True,ACL19_Release/DaVita Inc._20170502
+Ecolab Inc._20170502,Ecolab Inc.,2017-05-02,402,402,2610.442,0,1,True,ACL19_Release/Ecolab Inc._20170502
+Emerson Electric Company_20170502,Emerson Electric Company,2017-05-02,476,476,2582.52,0,1,True,ACL19_Release/Emerson Electric Company_20170502
+Gilead Sciences_20170502,Gilead Sciences,2017-05-02,113,113,1044.062,0,1,True,ACL19_Release/Gilead Sciences_20170502
+HCA Holdings_20170502,HCA Holdings,2017-05-02,79,79,663.072,0,1,True,ACL19_Release/HCA Holdings_20170502
+Hanesbrands Inc_20170502,Hanesbrands Inc,2017-05-02,109,109,919.197,0,1,True,ACL19_Release/Hanesbrands Inc_20170502
+Hilton Worldwide Holdings Inc_20170502,Hilton Worldwide Holdings Inc,2017-05-02,294,294,2555.82,0,1,True,ACL19_Release/Hilton Worldwide Holdings Inc_20170502
+IPG Photonics Corp._20170502,IPG Photonics Corp.,2017-05-02,200,200,1929.247,0,1,True,ACL19_Release/IPG Photonics Corp._20170502
+Martin Marietta Materials_20170502,Martin Marietta Materials,2017-05-02,426,426,3361.306,0,1,True,ACL19_Release/Martin Marietta Materials_20170502
+Merck & Co._20170502,Merck & Co.,2017-05-02,117,117,811.05,0,1,True,ACL19_Release/Merck & Co._20170502
+Pinnacle West Capital_20170502,Pinnacle West Capital,2017-05-02,80,80,876.565,0,1,True,ACL19_Release/Pinnacle West Capital_20170502
+The Mosaic Company_20170502,The Mosaic Company,2017-05-02,83,83,730.749,0,1,True,ACL19_Release/The Mosaic Company_20170502
+Wec Energy Group Inc_20170502,Wec Energy Group Inc,2017-05-02,166,166,1339.768,0,1,True,ACL19_Release/Wec Energy Group Inc_20170502
+Western Union Co_20170502,Western Union Co,2017-05-02,207,207,1495.249,0,1,True,ACL19_Release/Western Union Co_20170502
+Automatic Data Processing_20170503,Automatic Data Processing,2017-05-03,124,124,1173.891,0,1,True,ACL19_Release/Automatic Data Processing_20170503
+Estee Lauder Cos._20170503,Estee Lauder Cos.,2017-05-03,282,282,2346.632,0,1,True,ACL19_Release/Estee Lauder Cos._20170503
+Garmin Ltd._20170503,Garmin Ltd.,2017-05-03,119,119,893.336,0,1,True,ACL19_Release/Garmin Ltd._20170503
+Humana Inc._20170503,Humana Inc.,2017-05-03,114,114,993.776,0,1,True,ACL19_Release/Humana Inc._20170503
+Kraft Heinz Co_20170503,Kraft Heinz Co,2017-05-03,91,91,960.836,0,1,True,ACL19_Release/Kraft Heinz Co_20170503
+NiSource Inc._20170503,NiSource Inc.,2017-05-03,44,44,522.344,0,1,True,ACL19_Release/NiSource Inc._20170503
+The Clorox Company_20170503,The Clorox Company,2017-05-03,64,64,716.643,0,1,True,ACL19_Release/The Clorox Company_20170503
+ABIOMED Inc_20170504,ABIOMED Inc,2017-05-04,217,217,1999.386,0,1,True,ACL19_Release/ABIOMED Inc_20170504
+Activision Blizzard_20170504,Activision Blizzard,2017-05-04,59,59,598.126,0,1,True,ACL19_Release/Activision Blizzard_20170504
+AmerisourceBergen Corp_20170504,AmerisourceBergen Corp,2017-05-04,248,248,1968.013,0,1,True,ACL19_Release/AmerisourceBergen Corp_20170504
+Ball Corp_20170504,Ball Corp,2017-05-04,128,128,990.772,0,1,True,ACL19_Release/Ball Corp_20170504
+Dominion Energy_20170504,Dominion Energy,2017-05-04,120,120,938.24,0,1,True,ACL19_Release/Dominion Energy_20170504
+Gartner Inc_20170504,Gartner Inc,2017-05-04,198,198,2167.85,0,1,True,ACL19_Release/Gartner Inc_20170504
+Incyte_20170504,Incyte,2017-05-04,45,45,459.144,0,1,True,ACL19_Release/Incyte_20170504
+Kellogg Co._20170504,Kellogg Co.,2017-05-04,174,174,1287.837,0,1,True,ACL19_Release/Kellogg Co._20170504
+MSCI Inc_20170504,MSCI Inc,2017-05-04,130,130,1331.775,0,1,True,ACL19_Release/MSCI Inc_20170504
+Motorola Solutions Inc._20170504,Motorola Solutions Inc.,2017-05-04,84,84,700.918,0,1,True,ACL19_Release/Motorola Solutions Inc._20170504
+PPL Corp._20170504,PPL Corp.,2017-05-04,99,99,800.287,0,1,True,ACL19_Release/PPL Corp._20170504
+Quanta Services Inc._20170504,Quanta Services Inc.,2017-05-04,250,250,1662.563,0,1,True,ACL19_Release/Quanta Services Inc._20170504
+Regeneron_20170504,Regeneron,2017-05-04,115,115,1290.083,0,1,True,ACL19_Release/Regeneron_20170504
+Stericycle Inc_20170504,Stericycle Inc,2017-05-04,58,58,449.202,0,1,True,ACL19_Release/Stericycle Inc_20170504
+CIGNA Corp._20170505,CIGNA Corp.,2017-05-05,272,272,2046.642,0,1,True,ACL19_Release/CIGNA Corp._20170505
+Welltower Inc._20170505,Welltower Inc.,2017-05-05,109,109,1055.425,0,1,True,ACL19_Release/Welltower Inc._20170505
+AES Corp_20170508,AES Corp,2017-05-08,140,140,1292.591,0,1,True,ACL19_Release/AES Corp_20170508
+Sysco Corp._20170508,Sysco Corp.,2017-05-08,173,173,1106.103,0,1,True,ACL19_Release/Sysco Corp._20170508
+Aon plc_20170509,Aon plc,2017-05-09,230,230,1375.66,0,1,True,ACL19_Release/Aon plc_20170509
+Booking Holdings Inc_20170509,Booking Holdings Inc,2017-05-09,181,181,1431.38,0,1,True,ACL19_Release/Booking Holdings Inc_20170509
+News Corp. Class A_20170509,News Corp. Class A,2017-05-09,117,117,1174.7,0,1,True,ACL19_Release/News Corp. Class A_20170509
+Nvidia Corporation_20170509,Nvidia Corporation,2017-05-09,93,93,825.887,0,1,True,ACL19_Release/Nvidia Corporation_20170509
+Sealed Air_20170509,Sealed Air,2017-05-09,144,144,1664.157,0,1,True,ACL19_Release/Sealed Air_20170509
+Sempra Energy_20170509,Sempra Energy,2017-05-09,54,54,395.886,0,1,True,ACL19_Release/Sempra Energy_20170509
+The Walt Disney Company_20170509,The Walt Disney Company,2017-05-09,85,85,874.867,0,1,True,ACL19_Release/The Walt Disney Company_20170509
+Broadridge Financial Solutions_20170510,Broadridge Financial Solutions,2017-05-10,115,115,937.221,0,1,True,ACL19_Release/Broadridge Financial Solutions_20170510
+Cimarex Energy_20170510,Cimarex Energy,2017-05-10,71,71,871.967,0,1,True,ACL19_Release/Cimarex Energy_20170510
+Mylan N.V._20170510,Mylan N.V.,2017-05-10,99,99,873.639,0,1,True,ACL19_Release/Mylan N.V._20170510
+Symantec Corp._20170510,Symantec Corp.,2017-05-10,251,251,2234.253,0,1,True,ACL19_Release/Symantec Corp._20170510
+Kohl's Corp._20170511,Kohl's Corp.,2017-05-11,96,96,601.417,0,1,True,ACL19_Release/Kohl's Corp._20170511
+Home Depot_20170516,Home Depot,2017-05-16,100,100,755.827,0,1,True,ACL19_Release/Home Depot_20170516
+Synopsys Inc._20170517,Synopsys Inc.,2017-05-17,181,181,1711.491,0,1,True,ACL19_Release/Synopsys Inc._20170517
+Gap Inc._20170518,Gap Inc.,2017-05-18,209,209,2197.185,0,1,True,ACL19_Release/Gap Inc._20170518
+Ross Stores_20170518,Ross Stores,2017-05-18,47,47,439.745,0,1,True,ACL19_Release/Ross Stores_20170518
+Campbell Soup_20170519,Campbell Soup,2017-05-19,207,207,1796.911,0,1,True,ACL19_Release/Campbell Soup_20170519
+Foot Locker Inc_20170519,Foot Locker Inc,2017-05-19,155,155,1618.965,0,1,True,ACL19_Release/Foot Locker Inc_20170519
+Intuit Inc._20170523,Intuit Inc.,2017-05-23,293,293,2022.296,0,1,True,ACL19_Release/Intuit Inc._20170523
+Advance Auto Parts_20170524,Advance Auto Parts,2017-05-24,308,308,2771.278,0,1,True,ACL19_Release/Advance Auto Parts_20170524
+HP Inc._20170524,HP Inc.,2017-05-24,87,87,782.054,0,1,True,ACL19_Release/HP Inc._20170524
+Lowe's Cos._20170524,Lowe's Cos.,2017-05-24,92,92,990.433,0,1,True,ACL19_Release/Lowe's Cos._20170524
+Tiffany & Co._20170524,Tiffany & Co.,2017-05-24,61,61,652.069,0,1,True,ACL19_Release/Tiffany & Co._20170524
+Hewlett Packard Enterprise_20170531,Hewlett Packard Enterprise,2017-05-31,171,171,1465.417,0,1,True,ACL19_Release/Hewlett Packard Enterprise_20170531
+Kroger Co._20170615,Kroger Co.,2017-06-15,138,138,1386.648,0,1,True,ACL19_Release/Kroger Co._20170615
+Lennar Corp._20170620,Lennar Corp.,2017-06-20,173,173,1919.033,0,1,True,ACL19_Release/Lennar Corp._20170620
+Oracle Corp._20170621,Oracle Corp.,2017-06-21,122,122,1235.67,0,1,True,ACL19_Release/Oracle Corp._20170621
+General Mills_20170628,General Mills,2017-06-28,96,96,928.0,0,1,True,ACL19_Release/General Mills_20170628
+Micron Technology_20170629,Micron Technology,2017-06-29,120,120,1145.469,0,1,True,ACL19_Release/Micron Technology_20170629
+Walgreens Boots Alliance_20170629,Walgreens Boots Alliance,2017-06-29,115,115,1193.796,0,1,True,ACL19_Release/Walgreens Boots Alliance_20170629
+PepsiCo Inc._20170711,PepsiCo Inc.,2017-07-11,178,178,1693.675,0,1,True,ACL19_Release/PepsiCo Inc._20170711
+JPMorgan Chase & Co._20170714,JPMorgan Chase & Co.,2017-07-14,231,231,2454.152,0,1,True,ACL19_Release/JPMorgan Chase & Co._20170714
+Goldman Sachs Group_20170718,Goldman Sachs Group,2017-07-18,242,242,3343.151,0,1,True,ACL19_Release/Goldman Sachs Group_20170718
+Lockheed Martin Corp._20170718,Lockheed Martin Corp.,2017-07-18,147,147,1341.127,0,1,True,ACL19_Release/Lockheed Martin Corp._20170718
+Prologis_20170718,Prologis,2017-07-18,78,78,628.715,0,1,True,ACL19_Release/Prologis_20170718
+American Express Co_20170719,American Express Co,2017-07-19,130,130,1562.868,0,1,True,ACL19_Release/American Express Co_20170719
+Crown Castle International Corp._20170719,Crown Castle International Corp.,2017-07-19,201,201,2090.632,0,1,True,ACL19_Release/Crown Castle International Corp._20170719
+Grainger (W.W.) Inc._20170719,Grainger (W.W.) Inc.,2017-07-19,275,275,1677.897,0,1,True,ACL19_Release/Grainger (W.W.) Inc._20170719
+U.S. Bancorp_20170719,U.S. Bancorp,2017-07-19,109,109,1217.933,0,1,True,ACL19_Release/U.S. Bancorp_20170719
+Dover Corp._20170720,Dover Corp.,2017-07-20,97,97,850.155,0,1,True,ACL19_Release/Dover Corp._20170720
+Microsoft Corp._20170720,Microsoft Corp.,2017-07-20,187,187,1701.758,0,1,True,ACL19_Release/Microsoft Corp._20170720
+Sherwin-Williams_20170720,Sherwin-Williams,2017-07-20,372,372,2745.522,0,1,True,ACL19_Release/Sherwin-Williams_20170720
+Skyworks Solutions_20170720,Skyworks Solutions,2017-07-20,222,222,1396.036,0,1,True,ACL19_Release/Skyworks Solutions_20170720
+Snap-On Inc._20170720,Snap-On Inc.,2017-07-20,327,327,2356.715,0,1,True,ACL19_Release/Snap-On Inc._20170720
+The Bank of New York Mellon Corp._20170720,The Bank of New York Mellon Corp.,2017-07-20,171,171,1416.15,0,1,True,ACL19_Release/The Bank of New York Mellon Corp._20170720
+eBay Inc._20170720,eBay Inc.,2017-07-20,95,95,920.79,0,1,True,ACL19_Release/eBay Inc._20170720
+Regions Financial Corp._20170721,Regions Financial Corp.,2017-07-21,221,221,1941.786,0,1,True,ACL19_Release/Regions Financial Corp._20170721
+Schlumberger Ltd._20170721,Schlumberger Ltd.,2017-07-21,211,211,1850.41,0,1,True,ACL19_Release/Schlumberger Ltd._20170721
+Cadence Design Systems_20170724,Cadence Design Systems,2017-07-24,53,53,431.203,0,1,True,ACL19_Release/Cadence Design Systems_20170724
+3M Company_20170725,3M Company,2017-07-25,209,209,1995.128,0,1,True,ACL19_Release/3M Company_20170725
+Advanced Micro Devices Inc_20170725,Advanced Micro Devices Inc,2017-07-25,218,218,1631.242,0,1,True,ACL19_Release/Advanced Micro Devices Inc_20170725
+Amgen Inc._20170725,Amgen Inc.,2017-07-25,176,176,1358.472,0,1,True,ACL19_Release/Amgen Inc._20170725
+Avery Dennison Corp_20170725,Avery Dennison Corp,2017-07-25,123,123,1101.061,0,1,True,ACL19_Release/Avery Dennison Corp_20170725
+Caterpillar Inc._20170725,Caterpillar Inc.,2017-07-25,156,156,1478.113,0,1,True,ACL19_Release/Caterpillar Inc._20170725
+General Motors_20170725,General Motors,2017-07-25,150,150,1342.093,0,1,True,ACL19_Release/General Motors_20170725
+Juniper Networks_20170725,Juniper Networks,2017-07-25,226,226,2014.276,0,1,True,ACL19_Release/Juniper Networks_20170725
+Kimberly-Clark_20170725,Kimberly-Clark,2017-07-25,50,50,385.019,0,1,True,ACL19_Release/Kimberly-Clark_20170725
+Newmont Mining Corporation_20170725,Newmont Mining Corporation,2017-07-25,71,71,703.19,0,1,True,ACL19_Release/Newmont Mining Corporation_20170725
+PACCAR Inc._20170725,PACCAR Inc.,2017-07-25,145,145,1186.638,0,1,True,ACL19_Release/PACCAR Inc._20170725
+Pentair plc_20170725,Pentair plc,2017-07-25,143,143,1031.549,0,1,True,ACL19_Release/Pentair plc_20170725
+Quest Diagnostics_20170725,Quest Diagnostics,2017-07-25,249,249,2343.706,0,1,True,ACL19_Release/Quest Diagnostics_20170725
+Seagate Technology_20170725,Seagate Technology,2017-07-25,122,122,1026.064,0,1,True,ACL19_Release/Seagate Technology_20170725
+United Technologies_20170725,United Technologies,2017-07-25,70,70,495.595,0,1,True,ACL19_Release/United Technologies_20170725
+A.O. Smith Corp_20170726,A.O. Smith Corp,2017-07-26,62,62,552.673,0,1,True,ACL19_Release/A.O. Smith Corp_20170726
+Anthem Inc._20170726,Anthem Inc.,2017-07-26,150,150,1858.482,0,1,True,ACL19_Release/Anthem Inc._20170726
+Baxter International Inc._20170726,Baxter International Inc.,2017-07-26,182,182,1548.826,0,1,True,ACL19_Release/Baxter International Inc._20170726
+Coca-Cola Company (The)_20170726,Coca-Cola Company (The),2017-07-26,236,236,1843.331,0,1,True,ACL19_Release/Coca-Cola Company (The)_20170726
+DTE Energy Co._20170726,DTE Energy Co.,2017-07-26,90,90,823.118,0,1,True,ACL19_Release/DTE Energy Co._20170726
+F5 Networks_20170726,F5 Networks,2017-07-26,188,188,1627.873,0,1,True,ACL19_Release/F5 Networks_20170726
+PayPal_20170726,PayPal,2017-07-26,219,219,2404.258,0,1,True,ACL19_Release/PayPal_20170726
+Rockwell Automation Inc._20170726,Rockwell Automation Inc.,2017-07-26,198,198,1500.787,0,1,True,ACL19_Release/Rockwell Automation Inc._20170726
+TE Connectivity Ltd._20170726,TE Connectivity Ltd.,2017-07-26,226,226,2179.318,0,1,True,ACL19_Release/TE Connectivity Ltd._20170726
+Tractor Supply Company_20170726,Tractor Supply Company,2017-07-26,158,158,1420.776,0,1,True,ACL19_Release/Tractor Supply Company_20170726
+Waste Management Inc._20170726,Waste Management Inc.,2017-07-26,79,79,798.589,0,1,True,ACL19_Release/Waste Management Inc._20170726
+Align Technology_20170727,Align Technology,2017-07-27,186,186,1194.292,0,1,True,ACL19_Release/Align Technology_20170727
+Altria Group Inc_20170727,Altria Group Inc,2017-07-27,173,173,1164.382,0,1,True,ACL19_Release/Altria Group Inc_20170727
+Automatic Data Processing_20170727,Automatic Data Processing,2017-07-27,271,271,2171.272,0,1,True,ACL19_Release/Automatic Data Processing_20170727
+BorgWarner_20170727,BorgWarner,2017-07-27,91,91,234.971,0,1,True,ACL19_Release/BorgWarner_20170727
+Bristol-Myers Squibb_20170727,Bristol-Myers Squibb,2017-07-27,103,103,765.675,0,1,True,ACL19_Release/Bristol-Myers Squibb_20170727
+Celgene Corp._20170727,Celgene Corp.,2017-07-27,161,161,1196.513,0,1,True,ACL19_Release/Celgene Corp._20170727
+Comcast Corp._20170727,Comcast Corp.,2017-07-27,87,87,823.301,0,1,True,ACL19_Release/Comcast Corp._20170727
+EQT Corporation_20170727,EQT Corporation,2017-07-27,56,56,499.368,0,1,True,ACL19_Release/EQT Corporation_20170727
+Intel Corp._20170727,Intel Corp.,2017-07-27,209,209,1829.277,0,1,True,ACL19_Release/Intel Corp._20170727
+Invesco Ltd._20170727,Invesco Ltd.,2017-07-27,169,169,1584.562,0,1,True,ACL19_Release/Invesco Ltd._20170727
+Johnson Controls International_20170727,Johnson Controls International,2017-07-27,103,103,947.088,0,1,True,ACL19_Release/Johnson Controls International_20170727
+KLA-Tencor Corp._20170727,KLA-Tencor Corp.,2017-07-27,106,106,836.232,0,1,True,ACL19_Release/KLA-Tencor Corp._20170727
+LKQ Corporation_20170727,LKQ Corporation,2017-07-27,232,232,2373.773,0,1,True,ACL19_Release/LKQ Corporation_20170727
+MGM Resorts International_20170727,MGM Resorts International,2017-07-27,222,222,2002.051,0,1,True,ACL19_Release/MGM Resorts International_20170727
+Marsh & McLennan_20170727,Marsh & McLennan,2017-07-27,242,242,2073.522,0,1,True,ACL19_Release/Marsh & McLennan_20170727
+Masco Corp._20170727,Masco Corp.,2017-07-27,159,159,1234.913,0,1,True,ACL19_Release/Masco Corp._20170727
+Mastercard Inc._20170727,Mastercard Inc.,2017-07-27,280,280,2103.484,0,1,True,ACL19_Release/Mastercard Inc._20170727
+Mattel Inc._20170727,Mattel Inc.,2017-07-27,94,94,977.685,0,1,True,ACL19_Release/Mattel Inc._20170727
+Nielsen Holdings_20170727,Nielsen Holdings,2017-07-27,175,175,1144.555,0,1,True,ACL19_Release/Nielsen Holdings_20170727
+PG&E Corp._20170727,PG&E Corp.,2017-07-27,66,66,648.516,0,1,True,ACL19_Release/PG&E Corp._20170727
+Republic Services Inc_20170727,Republic Services Inc,2017-07-27,104,104,717.296,0,1,True,ACL19_Release/Republic Services Inc_20170727
+Stryker Corp._20170727,Stryker Corp.,2017-07-27,85,85,650.684,0,1,True,ACL19_Release/Stryker Corp._20170727
+"Twitter, Inc._20170727","Twitter, Inc.",2017-07-27,100,100,761.051,0,1,True,"ACL19_Release/Twitter, Inc._20170727"
+United Parcel Service_20170727,United Parcel Service,2017-07-27,172,172,1336.79,0,1,True,ACL19_Release/United Parcel Service_20170727
+Valero Energy_20170727,Valero Energy,2017-07-27,95,95,679.576,0,1,True,ACL19_Release/Valero Energy_20170727
+Verisign Inc._20170727,Verisign Inc.,2017-07-27,51,51,563.736,0,1,True,ACL19_Release/Verisign Inc._20170727
+Verizon Communications_20170727,Verizon Communications,2017-07-27,257,257,2156.016,0,1,True,ACL19_Release/Verizon Communications_20170727
+Xcel Energy Inc_20170727,Xcel Energy Inc,2017-07-27,74,74,514.612,0,1,True,ACL19_Release/Xcel Energy Inc_20170727
+AbbVie Inc._20170728,AbbVie Inc.,2017-07-28,65,65,498.077,0,1,True,ACL19_Release/AbbVie Inc._20170728
+Chevron Corp._20170728,Chevron Corp.,2017-07-28,243,243,1881.391,0,1,True,ACL19_Release/Chevron Corp._20170728
+Merck & Co._20170728,Merck & Co.,2017-07-28,126,126,686.341,0,1,True,ACL19_Release/Merck & Co._20170728
+Archer-Daniels-Midland Co_20170801,Archer-Daniels-Midland Co,2017-08-01,55,55,436.088,0,1,True,ACL19_Release/Archer-Daniels-Midland Co_20170801
+Cummins Inc._20170801,Cummins Inc.,2017-08-01,228,228,1802.083,0,1,True,ACL19_Release/Cummins Inc._20170801
+DaVita Inc._20170801,DaVita Inc.,2017-08-01,29,29,253.388,0,1,True,ACL19_Release/DaVita Inc._20170801
+Ecolab Inc._20170801,Ecolab Inc.,2017-08-01,30,30,247.589,0,1,True,ACL19_Release/Ecolab Inc._20170801
+Harris Corporation_20170801,Harris Corporation,2017-08-01,88,88,909.531,0,1,True,ACL19_Release/Harris Corporation_20170801
+Illumina Inc_20170801,Illumina Inc,2017-08-01,172,172,1489.842,0,1,True,ACL19_Release/Illumina Inc_20170801
+Incyte_20170801,Incyte,2017-08-01,29,29,223.295,0,1,True,ACL19_Release/Incyte_20170801
+Martin Marietta Materials_20170801,Martin Marietta Materials,2017-08-01,420,420,3459.866,0,1,True,ACL19_Release/Martin Marietta Materials_20170801
+Royal Caribbean Cruises Ltd_20170801,Royal Caribbean Cruises Ltd,2017-08-01,153,153,1219.918,0,1,True,ACL19_Release/Royal Caribbean Cruises Ltd_20170801
+The Mosaic Company_20170801,The Mosaic Company,2017-08-01,99,99,932.885,0,1,True,ACL19_Release/The Mosaic Company_20170801
+Xerox_20170801,Xerox,2017-08-01,151,151,1408.549,0,1,True,ACL19_Release/Xerox_20170801
+AMETEK Inc._20170802,AMETEK Inc.,2017-08-02,252,252,1789.1,0,1,True,ACL19_Release/AMETEK Inc._20170802
+"CA, Inc._20170802","CA, Inc.",2017-08-02,75,75,609.149,0,1,True,"ACL19_Release/CA, Inc._20170802"
+CenturyLink Inc_20170802,CenturyLink Inc,2017-08-02,185,185,1525.428,0,1,True,ACL19_Release/CenturyLink Inc_20170802
+Citrix Systems_20170802,Citrix Systems,2017-08-02,174,174,1298.808,0,1,True,ACL19_Release/Citrix Systems_20170802
+Dominion Energy_20170802,Dominion Energy,2017-08-02,114,114,783.256,0,1,True,ACL19_Release/Dominion Energy_20170802
+Equinix_20170802,Equinix,2017-08-02,154,154,1383.602,0,1,True,ACL19_Release/Equinix_20170802
+Fidelity National Information Services_20170802,Fidelity National Information Services,2017-08-02,153,153,1207.04,0,1,True,ACL19_Release/Fidelity National Information Services_20170802
+Fortune Brands Home & Security_20170802,Fortune Brands Home & Security,2017-08-02,234,234,1766.844,0,1,True,ACL19_Release/Fortune Brands Home & Security_20170802
+General Growth Properties Inc._20170802,General Growth Properties Inc.,2017-08-02,216,216,1609.953,0,1,True,ACL19_Release/General Growth Properties Inc._20170802
+Hologic_20170802,Hologic,2017-08-02,251,251,1949.78,0,1,True,ACL19_Release/Hologic_20170802
+Humana Inc._20170802,Humana Inc.,2017-08-02,162,162,1360.274,0,1,True,ACL19_Release/Humana Inc._20170802
+Molson Coors Brewing Company_20170802,Molson Coors Brewing Company,2017-08-02,96,96,835.004,0,1,True,ACL19_Release/Molson Coors Brewing Company_20170802
+Mondelez International_20170802,Mondelez International,2017-08-02,183,183,1351.314,0,1,True,ACL19_Release/Mondelez International_20170802
+Vulcan Materials_20170802,Vulcan Materials,2017-08-02,262,262,1889.802,0,1,True,ACL19_Release/Vulcan Materials_20170802
+"Allergan, Plc_20170803","Allergan, Plc",2017-08-03,173,173,1262.994,0,1,True,"ACL19_Release/Allergan, Plc_20170803"
+AmerisourceBergen Corp_20170803,AmerisourceBergen Corp,2017-08-03,209,209,1568.078,0,1,True,ACL19_Release/AmerisourceBergen Corp_20170803
+Ball Corp_20170803,Ball Corp,2017-08-03,221,221,1549.401,0,1,True,ACL19_Release/Ball Corp_20170803
+Becton Dickinson_20170803,Becton Dickinson,2017-08-03,244,244,1731.265,0,1,True,ACL19_Release/Becton Dickinson_20170803
+Church & Dwight_20170803,Church & Dwight,2017-08-03,136,136,864.627,0,1,True,ACL19_Release/Church & Dwight_20170803
+Cognizant Technology Solutions_20170803,Cognizant Technology Solutions,2017-08-03,105,105,863.478,0,1,True,ACL19_Release/Cognizant Technology Solutions_20170803
+Dish Network_20170803,Dish Network,2017-08-03,289,289,2024.124,0,1,True,ACL19_Release/Dish Network_20170803
+FleetCor Technologies Inc_20170803,FleetCor Technologies Inc,2017-08-03,157,157,1498.828,0,1,True,ACL19_Release/FleetCor Technologies Inc_20170803
+Kellogg Co._20170803,Kellogg Co.,2017-08-03,205,205,1517.714,0,1,True,ACL19_Release/Kellogg Co._20170803
+Motorola Solutions Inc._20170803,Motorola Solutions Inc.,2017-08-03,102,102,780.434,0,1,True,ACL19_Release/Motorola Solutions Inc._20170803
+Noble Energy Inc_20170803,Noble Energy Inc,2017-08-03,179,179,1438.903,0,1,True,ACL19_Release/Noble Energy Inc_20170803
+PPL Corp._20170803,PPL Corp.,2017-08-03,89,89,945.659,0,1,True,ACL19_Release/PPL Corp._20170803
+Pinnacle West Capital_20170803,Pinnacle West Capital,2017-08-03,63,63,579.918,0,1,True,ACL19_Release/Pinnacle West Capital_20170803
+Quanta Services Inc._20170803,Quanta Services Inc.,2017-08-03,200,200,1490.965,0,1,True,ACL19_Release/Quanta Services Inc._20170803
+Regeneron_20170803,Regeneron,2017-08-03,134,134,1559.275,0,1,True,ACL19_Release/Regeneron_20170803
+SCANA Corp_20170803,SCANA Corp,2017-08-03,68,68,596.036,0,1,True,ACL19_Release/SCANA Corp_20170803
+Stericycle Inc_20170803,Stericycle Inc,2017-08-03,103,103,730.384,0,1,True,ACL19_Release/Stericycle Inc_20170803
+The Clorox Company_20170803,The Clorox Company,2017-08-03,47,47,408.528,0,1,True,ACL19_Release/The Clorox Company_20170803
+Yum! Brands Inc_20170803,Yum! Brands Inc,2017-08-03,156,156,1192.829,0,1,True,ACL19_Release/Yum! Brands Inc_20170803
+CIGNA Corp._20170804,CIGNA Corp.,2017-08-04,183,183,1749.185,0,1,True,ACL19_Release/CIGNA Corp._20170804
+Cboe Global Markets_20170804,Cboe Global Markets,2017-08-04,135,135,1191.288,0,1,True,ACL19_Release/Cboe Global Markets_20170804
+CBS Corp._20170807,CBS Corp.,2017-08-07,190,190,1544.333,0,1,True,ACL19_Release/CBS Corp._20170807
+Gartner Inc_20170808,Gartner Inc,2017-08-08,222,222,2357.682,0,1,True,ACL19_Release/Gartner Inc_20170808
+The Walt Disney Company_20170808,The Walt Disney Company,2017-08-08,58,58,617.796,0,1,True,ACL19_Release/The Walt Disney Company_20170808
+Sysco Corp._20170814,Sysco Corp.,2017-08-14,82,82,855.98,0,1,True,ACL19_Release/Sysco Corp._20170814
+Target Corp._20170816,Target Corp.,2017-08-16,119,119,1003.337,0,1,True,ACL19_Release/Target Corp._20170816
+Ross Stores_20170817,Ross Stores,2017-08-17,59,59,553.064,0,1,True,ACL19_Release/Ross Stores_20170817
+Estee Lauder Cos._20170818,Estee Lauder Cos.,2017-08-18,250,250,2098.181,0,1,True,ACL19_Release/Estee Lauder Cos._20170818
+"Coty, Inc_20170822","Coty, Inc",2017-08-22,134,134,1534.511,0,1,True,"ACL19_Release/Coty, Inc_20170822"
+Salesforce.com_20170822,Salesforce.com,2017-08-22,190,190,1603.161,0,1,True,ACL19_Release/Salesforce.com_20170822
+HP Inc._20170823,HP Inc.,2017-08-23,154,154,1294.536,0,1,True,ACL19_Release/HP Inc._20170823
+Lowe's Cos._20170823,Lowe's Cos.,2017-08-23,80,80,819.801,0,1,True,ACL19_Release/Lowe's Cos._20170823
+Campbell Soup_20170831,Campbell Soup,2017-08-31,191,191,1775.987,0,1,True,ACL19_Release/Campbell Soup_20170831
+The Cooper Companies_20170831,The Cooper Companies,2017-08-31,122,122,1178.096,0,1,True,ACL19_Release/The Cooper Companies_20170831
+Hewlett Packard Enterprise_20170905,Hewlett Packard Enterprise,2017-09-05,232,232,1680.228,0,1,True,ACL19_Release/Hewlett Packard Enterprise_20170905
+Kroger Co._20170908,Kroger Co.,2017-09-08,256,256,2172.168,0,1,True,ACL19_Release/Kroger Co._20170908
+Oracle Corp._20170914,Oracle Corp.,2017-09-14,62,62,769.646,0,1,True,ACL19_Release/Oracle Corp._20170914
+Carmax Inc_20170922,Carmax Inc,2017-09-22,272,272,1797.016,0,1,True,ACL19_Release/Carmax Inc_20170922
+Red Hat Inc._20170925,Red Hat Inc.,2017-09-25,108,108,1010.628,0,1,True,ACL19_Release/Red Hat Inc._20170925
+Darden Restaurants_20170926,Darden Restaurants,2017-09-26,220,220,1950.354,0,1,True,ACL19_Release/Darden Restaurants_20170926
+Micron Technology_20170926,Micron Technology,2017-09-26,167,167,2010.331,0,1,True,ACL19_Release/Micron Technology_20170926
+Lennar Corp._20171003,Lennar Corp.,2017-10-03,196,196,2104.503,0,1,True,ACL19_Release/Lennar Corp._20171003
+PepsiCo Inc._20171004,PepsiCo Inc.,2017-10-04,268,268,2155.572,0,1,True,ACL19_Release/PepsiCo Inc._20171004
+Citigroup Inc._20171012,Citigroup Inc.,2017-10-12,259,259,2785.75,0,1,True,ACL19_Release/Citigroup Inc._20171012
+JPMorgan Chase & Co._20171012,JPMorgan Chase & Co.,2017-10-12,236,236,2751.974,0,1,True,ACL19_Release/JPMorgan Chase & Co._20171012
+United Health Group Inc._20171017,United Health Group Inc.,2017-10-17,49,49,532.402,0,1,True,ACL19_Release/United Health Group Inc._20171017
+Abbott Laboratories_20171018,Abbott Laboratories,2017-10-18,245,245,2069.499,0,1,True,ACL19_Release/Abbott Laboratories_20171018
+American Express Co_20171018,American Express Co,2017-10-18,231,231,2814.276,0,1,True,ACL19_Release/American Express Co_20171018
+Alliance Data Systems_20171019,Alliance Data Systems,2017-10-19,105,105,659.174,0,1,True,ACL19_Release/Alliance Data Systems_20171019
+Nucor Corp._20171019,Nucor Corp.,2017-10-19,78,78,962.795,0,1,True,ACL19_Release/Nucor Corp._20171019
+Verizon Communications_20171019,Verizon Communications,2017-10-19,254,254,2332.891,0,1,True,ACL19_Release/Verizon Communications_20171019
+Kansas City Southern_20171020,Kansas City Southern,2017-10-20,136,136,976.927,0,1,True,ACL19_Release/Kansas City Southern_20171020
+SunTrust Banks_20171020,SunTrust Banks,2017-10-20,99,99,1312.131,0,1,True,ACL19_Release/SunTrust Banks_20171020
+Halliburton Co._20171023,Halliburton Co.,2017-10-23,269,269,2219.677,0,1,True,ACL19_Release/Halliburton Co._20171023
+Hasbro Inc._20171023,Hasbro Inc.,2017-10-23,222,222,1950.433,0,1,True,ACL19_Release/Hasbro Inc._20171023
+Illinois Tool Works_20171023,Illinois Tool Works,2017-10-23,88,88,760.033,0,1,True,ACL19_Release/Illinois Tool Works_20171023
+Seagate Technology_20171023,Seagate Technology,2017-10-23,49,49,494.002,0,1,True,ACL19_Release/Seagate Technology_20171023
+AT&T Inc._20171024,AT&T Inc.,2017-10-24,399,399,3090.808,0,1,True,ACL19_Release/AT&T Inc._20171024
+Advanced Micro Devices Inc_20171024,Advanced Micro Devices Inc,2017-10-24,61,61,633.391,0,1,True,ACL19_Release/Advanced Micro Devices Inc_20171024
+Caterpillar Inc._20171024,Caterpillar Inc.,2017-10-24,121,121,1312.47,0,1,True,ACL19_Release/Caterpillar Inc._20171024
+General Motors_20171024,General Motors,2017-10-24,115,115,907.233,0,1,True,ACL19_Release/General Motors_20171024
+Illumina Inc_20171024,Illumina Inc,2017-10-24,290,290,2405.721,0,1,True,ACL19_Release/Illumina Inc_20171024
+Lockheed Martin Corp._20171024,Lockheed Martin Corp.,2017-10-24,228,228,2201.757,0,1,True,ACL19_Release/Lockheed Martin Corp._20171024
+Masco Corp._20171024,Masco Corp.,2017-10-24,110,110,1021.962,0,1,True,ACL19_Release/Masco Corp._20171024
+McDonald's Corp._20171024,McDonald's Corp.,2017-10-24,149,149,1135.656,0,1,True,ACL19_Release/McDonald's Corp._20171024
+PACCAR Inc._20171024,PACCAR Inc.,2017-10-24,225,225,1903.438,0,1,True,ACL19_Release/PACCAR Inc._20171024
+Regions Financial Corp._20171024,Regions Financial Corp.,2017-10-24,182,182,2074.149,0,1,True,ACL19_Release/Regions Financial Corp._20171024
+Texas Instruments_20171024,Texas Instruments,2017-10-24,89,89,711.288,0,1,True,ACL19_Release/Texas Instruments_20171024
+United Technologies_20171024,United Technologies,2017-10-24,56,56,391.758,0,1,True,ACL19_Release/United Technologies_20171024
+XL Group_20171024,XL Group,2017-10-24,69,69,641.881,0,1,True,ACL19_Release/XL Group_20171024
+Alaska Air Group Inc_20171025,Alaska Air Group Inc,2017-10-25,89,89,642.116,0,1,True,ACL19_Release/Alaska Air Group Inc_20171025
+Amgen Inc._20171025,Amgen Inc.,2017-10-25,120,120,973.949,0,1,True,ACL19_Release/Amgen Inc._20171025
+Avery Dennison Corp_20171025,Avery Dennison Corp,2017-10-25,117,117,831.007,0,1,True,ACL19_Release/Avery Dennison Corp_20171025
+FLIR Systems_20171025,FLIR Systems,2017-10-25,67,67,561.672,0,1,True,ACL19_Release/FLIR Systems_20171025
+General Dynamics_20171025,General Dynamics,2017-10-25,272,272,1913.417,0,1,True,ACL19_Release/General Dynamics_20171025
+Hess Corporation_20171025,Hess Corporation,2017-10-25,198,198,1647.882,0,1,True,ACL19_Release/Hess Corporation_20171025
+Nielsen Holdings_20171025,Nielsen Holdings,2017-10-25,133,133,958.616,0,1,True,ACL19_Release/Nielsen Holdings_20171025
+Norfolk Southern Corp._20171025,Norfolk Southern Corp.,2017-10-25,125,125,1066.527,0,1,True,ACL19_Release/Norfolk Southern Corp._20171025
+Tractor Supply Company_20171025,Tractor Supply Company,2017-10-25,178,178,1691.246,0,1,True,ACL19_Release/Tractor Supply Company_20171025
+Varian Medical Systems_20171025,Varian Medical Systems,2017-10-25,131,131,1074.495,0,1,True,ACL19_Release/Varian Medical Systems_20171025
+Walgreens Boots Alliance_20171025,Walgreens Boots Alliance,2017-10-25,265,265,2351.909,0,1,True,ACL19_Release/Walgreens Boots Alliance_20171025
+Alexion Pharmaceuticals_20171026,Alexion Pharmaceuticals,2017-10-26,90,90,890.41,0,1,True,ACL19_Release/Alexion Pharmaceuticals_20171026
+Altria Group Inc_20171026,Altria Group Inc,2017-10-26,165,165,1174.753,0,1,True,ACL19_Release/Altria Group Inc_20171026
+CME Group Inc._20171026,CME Group Inc.,2017-10-26,47,47,368.3,0,1,True,ACL19_Release/CME Group Inc._20171026
+CMS Energy_20171026,CMS Energy,2017-10-26,112,112,914.678,0,1,True,ACL19_Release/CMS Energy_20171026
+Celgene Corp._20171026,Celgene Corp.,2017-10-26,84,84,734.171,0,1,True,ACL19_Release/Celgene Corp._20171026
+Intel Corp._20171026,Intel Corp.,2017-10-26,185,185,1511.889,0,1,True,ACL19_Release/Intel Corp._20171026
+Invesco Ltd._20171026,Invesco Ltd.,2017-10-26,178,178,1395.2,0,1,True,ACL19_Release/Invesco Ltd._20171026
+Marsh & McLennan_20171026,Marsh & McLennan,2017-10-26,196,196,1721.234,0,1,True,ACL19_Release/Marsh & McLennan_20171026
+Mattel Inc._20171026,Mattel Inc.,2017-10-26,296,296,2738.024,0,1,True,ACL19_Release/Mattel Inc._20171026
+Raytheon Co._20171026,Raytheon Co.,2017-10-26,139,139,1477.303,0,1,True,ACL19_Release/Raytheon Co._20171026
+ResMed_20171026,ResMed,2017-10-26,187,187,1606.087,0,1,True,ACL19_Release/ResMed_20171026
+Stryker Corp._20171026,Stryker Corp.,2017-10-26,99,99,776.255,0,1,True,ACL19_Release/Stryker Corp._20171026
+The Hershey Company_20171026,The Hershey Company,2017-10-26,175,175,1498.122,0,1,True,ACL19_Release/The Hershey Company_20171026
+Verisign Inc._20171026,Verisign Inc.,2017-10-26,25,25,326.4,0,1,True,ACL19_Release/Verisign Inc._20171026
+Waste Management Inc._20171026,Waste Management Inc.,2017-10-26,158,158,1487.961,0,1,True,ACL19_Release/Waste Management Inc._20171026
+Wec Energy Group Inc_20171026,Wec Energy Group Inc,2017-10-26,141,141,1006.759,0,1,True,ACL19_Release/Wec Energy Group Inc_20171026
+Western Digital_20171026,Western Digital,2017-10-26,90,90,798.407,0,1,True,ACL19_Release/Western Digital_20171026
+AbbVie Inc._20171027,AbbVie Inc.,2017-10-27,107,107,1025.567,0,1,True,ACL19_Release/AbbVie Inc._20171027
+Aon plc_20171027,Aon plc,2017-10-27,160,160,1326.211,0,1,True,ACL19_Release/Aon plc_20171027
+Exxon Mobil Corp._20171027,Exxon Mobil Corp.,2017-10-27,447,447,4170.72,0,1,True,ACL19_Release/Exxon Mobil Corp._20171027
+Merck & Co._20171027,Merck & Co.,2017-10-27,75,75,473.913,0,1,True,ACL19_Release/Merck & Co._20171027
+Ventas Inc_20171027,Ventas Inc,2017-10-27,158,158,1409.593,1,1,True,ACL19_Release/Ventas Inc_20171027
+Dominion Energy_20171030,Dominion Energy,2017-10-30,106,106,851.958,0,1,True,ACL19_Release/Dominion Energy_20171030
+Aetna Inc_20171031,Aetna Inc,2017-10-31,142,142,1270.1,0,1,True,ACL19_Release/Aetna Inc_20171031
+Archer-Daniels-Midland Co_20171031,Archer-Daniels-Midland Co,2017-10-31,101,101,759.719,0,1,True,ACL19_Release/Archer-Daniels-Midland Co_20171031
+Ecolab Inc._20171031,Ecolab Inc.,2017-10-31,36,36,297.792,0,1,True,ACL19_Release/Ecolab Inc._20171031
+Electronic Arts_20171031,Electronic Arts,2017-10-31,248,248,1663.869,0,1,True,ACL19_Release/Electronic Arts_20171031
+Kellogg Co._20171031,Kellogg Co.,2017-10-31,174,174,1214.407,0,1,True,ACL19_Release/Kellogg Co._20171031
+The Mosaic Company_20171031,The Mosaic Company,2017-10-31,92,92,923.873,0,1,True,ACL19_Release/The Mosaic Company_20171031
+Cognizant Technology Solutions_20171101,Cognizant Technology Solutions,2017-11-01,118,118,1120.444,0,1,True,ACL19_Release/Cognizant Technology Solutions_20171101
+Equinix_20171101,Equinix,2017-11-01,97,97,860.056,0,1,True,ACL19_Release/Equinix_20171101
+Estee Lauder Cos._20171101,Estee Lauder Cos.,2017-11-01,226,226,2025.288,0,1,True,ACL19_Release/Estee Lauder Cos._20171101
+"Facebook, Inc._20171101","Facebook, Inc.",2017-11-01,156,156,1228.643,0,1,True,"ACL19_Release/Facebook, Inc._20171101"
+Garmin Ltd._20171101,Garmin Ltd.,2017-11-01,148,148,1112.738,0,1,True,ACL19_Release/Garmin Ltd._20171101
+Hanesbrands Inc_20171101,Hanesbrands Inc,2017-11-01,51,51,444.5,0,1,True,ACL19_Release/Hanesbrands Inc_20171101
+Kraft Heinz Co_20171101,Kraft Heinz Co,2017-11-01,98,98,897.541,0,1,True,ACL19_Release/Kraft Heinz Co_20171101
+The Clorox Company_20171101,The Clorox Company,2017-11-01,48,48,435.12,0,1,True,ACL19_Release/The Clorox Company_20171101
+AES Corp_20171102,AES Corp,2017-11-02,209,209,1599.347,0,1,True,ACL19_Release/AES Corp_20171102
+AmerisourceBergen Corp_20171102,AmerisourceBergen Corp,2017-11-02,210,210,1601.776,0,1,True,ACL19_Release/AmerisourceBergen Corp_20171102
+Apache Corporation_20171102,Apache Corporation,2017-11-02,206,206,1670.243,0,1,True,ACL19_Release/Apache Corporation_20171102
+Automatic Data Processing_20171102,Automatic Data Processing,2017-11-02,265,265,2226.86,0,1,True,ACL19_Release/Automatic Data Processing_20171102
+Ball Corp_20171102,Ball Corp,2017-11-02,215,215,1480.829,0,1,True,ACL19_Release/Ball Corp_20171102
+Becton Dickinson_20171102,Becton Dickinson,2017-11-02,201,201,1583.543,0,1,True,ACL19_Release/Becton Dickinson_20171102
+CBS Corp._20171102,CBS Corp.,2017-11-02,243,243,1753.835,0,1,True,ACL19_Release/CBS Corp._20171102
+Church & Dwight_20171102,Church & Dwight,2017-11-02,171,171,1144.242,0,1,True,ACL19_Release/Church & Dwight_20171102
+Gartner Inc_20171102,Gartner Inc,2017-11-02,243,243,2236.003,0,1,True,ACL19_Release/Gartner Inc_20171102
+Martin Marietta Materials_20171102,Martin Marietta Materials,2017-11-02,422,422,3100.134,0,1,True,ACL19_Release/Martin Marietta Materials_20171102
+Motorola Solutions Inc._20171102,Motorola Solutions Inc.,2017-11-02,64,64,630.335,0,1,True,ACL19_Release/Motorola Solutions Inc._20171102
+Parker-Hannifin_20171102,Parker-Hannifin,2017-11-02,69,69,446.589,0,1,True,ACL19_Release/Parker-Hannifin_20171102
+PerkinElmer_20171102,PerkinElmer,2017-11-02,197,197,1779.357,0,1,True,ACL19_Release/PerkinElmer_20171102
+Polo Ralph Lauren Corp._20171102,Polo Ralph Lauren Corp.,2017-11-02,153,153,1459.827,0,1,True,ACL19_Release/Polo Ralph Lauren Corp._20171102
+WestRock_20171102,WestRock,2017-11-02,172,172,1407.086,0,1,True,ACL19_Release/WestRock_20171102
+Western Union Co_20171102,Western Union Co,2017-11-02,186,186,1353.404,0,1,True,ACL19_Release/Western Union Co_20171102
+CBRE Group_20171103,CBRE Group,2017-11-03,94,94,728.451,0,1,True,ACL19_Release/CBRE Group_20171103
+Duke Energy_20171103,Duke Energy,2017-11-03,208,208,1639.889,0,1,True,ACL19_Release/Duke Energy_20171103
+Pinnacle West Capital_20171103,Pinnacle West Capital,2017-11-03,82,82,806.191,0,1,True,ACL19_Release/Pinnacle West Capital_20171103
+Booking Holdings Inc_20171106,Booking Holdings Inc,2017-11-06,141,141,1105.424,0,1,True,ACL19_Release/Booking Holdings Inc_20171106
+Skyworks Solutions_20171106,Skyworks Solutions,2017-11-06,236,236,1521.032,0,1,True,ACL19_Release/Skyworks Solutions_20171106
+Sysco Corp._20171106,Sysco Corp.,2017-11-06,196,196,1433.339,0,1,True,ACL19_Release/Sysco Corp._20171106
+Nektar Therapeutics_20171107,Nektar Therapeutics,2017-11-07,109,109,1396.088,0,1,True,ACL19_Release/Nektar Therapeutics_20171107
+Royal Caribbean Cruises Ltd_20171107,Royal Caribbean Cruises Ltd,2017-11-07,213,213,1751.092,0,1,True,ACL19_Release/Royal Caribbean Cruises Ltd_20171107
+CenturyLink Inc_20171108,CenturyLink Inc,2017-11-08,120,120,895.739,0,1,True,ACL19_Release/CenturyLink Inc_20171108
+Hologic_20171108,Hologic,2017-11-08,265,265,2088.96,0,1,True,ACL19_Release/Hologic_20171108
+Regeneron_20171108,Regeneron,2017-11-08,115,115,1235.54,0,1,True,ACL19_Release/Regeneron_20171108
+Sealed Air_20171108,Sealed Air,2017-11-08,194,194,1769.9,0,1,True,ACL19_Release/Sealed Air_20171108
+Stericycle Inc_20171108,Stericycle Inc,2017-11-08,64,64,658.233,0,1,True,ACL19_Release/Stericycle Inc_20171108
+"Coty, Inc_20171109","Coty, Inc",2017-11-09,205,205,1880.999,0,1,True,"ACL19_Release/Coty, Inc_20171109"
+Dish Network_20171109,Dish Network,2017-11-09,48,48,432.614,0,1,True,ACL19_Release/Dish Network_20171109
+Johnson Controls International_20171109,Johnson Controls International,2017-11-09,141,141,1519.673,0,1,True,ACL19_Release/Johnson Controls International_20171109
+Kohl's Corp._20171109,Kohl's Corp.,2017-11-09,272,272,2106.462,0,1,True,ACL19_Release/Kohl's Corp._20171109
+Nordstrom_20171109,Nordstrom,2017-11-09,125,125,913.058,0,1,True,ACL19_Release/Nordstrom_20171109
+Perrigo_20171109,Perrigo,2017-11-09,169,169,1229.636,0,1,True,ACL19_Release/Perrigo_20171109
+The Walt Disney Company_20171109,The Walt Disney Company,2017-11-09,86,86,914.469,0,1,True,ACL19_Release/The Walt Disney Company_20171109
+Cisco Systems_20171115,Cisco Systems,2017-11-15,164,164,1263.7,0,1,True,ACL19_Release/Cisco Systems_20171115
+NetApp_20171115,NetApp,2017-11-15,168,168,1512.725,0,1,True,ACL19_Release/NetApp_20171115
+Target Corp._20171115,Target Corp.,2017-11-15,114,114,824.268,0,1,True,ACL19_Release/Target Corp._20171115
+Ross Stores_20171116,Ross Stores,2017-11-16,73,73,577.855,0,1,True,ACL19_Release/Ross Stores_20171116
+Viacom Inc._20171116,Viacom Inc.,2017-11-16,99,99,1001.247,0,1,True,ACL19_Release/Viacom Inc._20171116
+Walmart_20171116,Walmart,2017-11-16,195,195,875.88,0,1,True,ACL19_Release/Walmart_20171116
+Foot Locker Inc_20171117,Foot Locker Inc,2017-11-17,107,107,1089.567,0,1,True,ACL19_Release/Foot Locker Inc_20171117
+Campbell Soup_20171121,Campbell Soup,2017-11-21,171,171,1369.391,0,1,True,ACL19_Release/Campbell Soup_20171121
+HP Inc._20171121,HP Inc.,2017-11-21,154,154,1210.392,0,1,True,ACL19_Release/HP Inc._20171121
+Hewlett Packard Enterprise_20171121,Hewlett Packard Enterprise,2017-11-21,194,194,1614.602,0,1,True,ACL19_Release/Hewlett Packard Enterprise_20171121
+Lowe's Cos._20171121,Lowe's Cos.,2017-11-21,72,72,743.314,0,1,True,ACL19_Release/Lowe's Cos._20171121
+Synopsys Inc._20171129,Synopsys Inc.,2017-11-29,159,159,1739.128,0,1,True,ACL19_Release/Synopsys Inc._20171129
+Kroger Co._20171130,Kroger Co.,2017-11-30,96,96,1173.864,0,1,True,ACL19_Release/Kroger Co._20171130
+Ulta Beauty_20171130,Ulta Beauty,2017-11-30,211,211,1728.026,0,1,True,ACL19_Release/Ulta Beauty_20171130
+Dollar General_20171207,Dollar General,2017-12-07,75,75,699.585,0,1,True,ACL19_Release/Dollar General_20171207
+Oracle Corp._20171214,Oracle Corp.,2017-12-14,118,118,1178.567,0,1,True,ACL19_Release/Oracle Corp._20171214
+Darden Restaurants_20171219,Darden Restaurants,2017-12-19,305,305,2583.667,0,1,True,ACL19_Release/Darden Restaurants_20171219
+Red Hat Inc._20171219,Red Hat Inc.,2017-12-19,84,84,790.056,0,1,True,ACL19_Release/Red Hat Inc._20171219
+General Mills_20171220,General Mills,2017-12-20,219,219,1233.789,0,1,True,ACL19_Release/General Mills_20171220
+Carmax Inc_20171221,Carmax Inc,2017-12-21,66,66,503.458,0,1,True,ACL19_Release/Carmax Inc_20171221
+Conagra Brands_20171221,Conagra Brands,2017-12-21,229,229,2135.171,0,1,True,ACL19_Release/Conagra Brands_20171221
