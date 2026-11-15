@@ -218,3 +218,17 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# ---- Hearing Risk project ----
+# Real data lives on Google Drive / Colab local disk, never in the repo.
+/data/
+# Model checkpoints
+checkpoints/
+*.ckpt
+*.pt
+*.pth
+# Audio and array files
+*.wav
+*.mp3
+*.npy
+*.npz
