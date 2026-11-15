@@ -1,0 +1,58 @@
+{
+  "n_calls": 572,
+  "n_companies": 280,
+  "n_calls_with_ticker": 572,
+  "n_calls_dropped": 0,
+  "dropped_reasons": {},
+  "n_companies_score_below_review": 3,
+  "n_companies_overridden": 3,
+  "n_companies_to_verify": 3,
+  "companies_by_ticker_status": {
+    "same": 221,
+    "delisted": 32,
+    "renamed": 19,
+    "check": 8
+  },
+  "calls_by_ticker_status": {
+    "same": 460,
+    "delisted": 63,
+    "renamed": 33,
+    "check": 16
+  },
+  "match_score": {
+    "min": 0.257,
+    "median": 1.0
+  },
+  "all_calls_have_ticker_or_reason": true,
+  "inventory_calls_covered": true,
+  "config": {
+    "script": "src/data/ticker_map.py",
+    "inventory": "results/inventory.csv",
+    "reference": "src/data/reference/sp500_2017.csv",
+    "overrides": "src/data/reference/ticker_overrides.csv",
+    "history": "src/data/reference/ticker_history.csv",
+    "scorer": "rapidfuzz.fuzz.WRatio on normalised names",
+    "stopwords": [
+      "a",
+      "ag",
+      "class",
+      "co",
+      "company",
+      "corp",
+      "corporation",
+      "cos",
+      "inc",
+      "incorporated",
+      "limited",
+      "lp",
+      "ltd",
+      "nv",
+      "plc",
+      "sa",
+      "the"
+    ],
+    "review_below": 0.9,
+    "check_yf": false,
+    "created": "2026-11-15T20:38:13"
+  }
+}

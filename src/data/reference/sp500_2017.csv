@@ -1,0 +1,675 @@
+ticker,name,sector,snapshot,in_sp500_2017
+A,Agilent Technologies Inc,Health Care,2017-03-08,True
+AAL,American Airlines Group,Industrials,2017-03-08,True
+AAP,Advance Auto Parts,Consumer Discretionary,2017-03-08,True
+AAPL,Apple Inc.,Information Technology,2017-03-08,True
+ABBV,AbbVie,Health Care,2017-03-08,True
+ABBV,AbbVie Inc.,Health Care,2018-04-02,True
+ABC,AmerisourceBergen Corp,Health Care,2017-03-08,True
+ABMD,ABIOMED Inc,Health Care,2020-05-10,False
+ABT,Abbott Laboratories,Health Care,2017-03-08,True
+ACN,Accenture plc,Information Technology,2017-03-08,True
+ADBE,Adobe Systems Inc,Information Technology,2017-03-08,True
+ADBE,Adobe Inc.,Information Technology,2020-05-10,True
+ADI,"Analog Devices, Inc.",Information Technology,2017-03-08,True
+ADI,Analog Devices Inc.,Information Technology,2020-05-10,True
+ADM,Archer-Daniels-Midland Co,Consumer Staples,2017-03-08,True
+ADP,Automatic Data Processing,Information Technology,2017-03-08,True
+ADS,Alliance Data Systems,Information Technology,2017-03-08,True
+ADSK,Autodesk Inc,Information Technology,2017-03-08,True
+ADSK,Autodesk Inc.,Information Technology,2018-04-02,True
+AEE,Ameren Corp,Utilities,2017-03-08,True
+AEP,American Electric Power,Utilities,2017-03-08,True
+AES,AES Corp,Utilities,2017-03-08,True
+AET,Aetna Inc,Health Care,2017-03-08,True
+AFL,AFLAC Inc,Financials,2017-03-08,True
+AGN,"Allergan, Plc",Health Care,2017-03-08,True
+AGN,Allergan plc,Health Care,2020-05-10,True
+AIG,"American International Group, Inc.",Financials,2017-03-08,True
+AIG,American International Group,Financials,2020-05-10,True
+AIV,Apartment Investment & Mgmt,Real Estate,2017-03-08,True
+AIV,Apartment Investment & Management,Real Estate,2018-04-02,True
+AIZ,Assurant Inc,Financials,2017-03-08,True
+AIZ,Assurant Inc.,Financials,2018-04-02,True
+AIZ,Assurant,Financials,2020-05-10,True
+AJG,Arthur J. Gallagher & Co.,Financials,2017-03-08,True
+AKAM,Akamai Technologies Inc,Information Technology,2017-03-08,True
+ALB,Albemarle Corp,Materials,2017-03-08,True
+ALGN,Align Technology,Health Care,2018-04-02,True
+ALK,Alaska Air Group Inc,Industrials,2017-03-08,True
+ALL,Allstate Corp,Financials,2017-03-08,True
+ALLE,Allegion,Industrials,2017-03-08,True
+ALXN,Alexion Pharmaceuticals,Health Care,2017-03-08,True
+AMAT,Applied Materials Inc,Information Technology,2017-03-08,True
+AMAT,Applied Materials Inc.,Information Technology,2018-04-02,True
+AMCR,Amcor plc,Materials,2020-05-10,False
+AMD,Advanced Micro Devices Inc,Information Technology,2018-04-02,True
+AME,AMETEK Inc,Industrials,2017-03-08,True
+AME,AMETEK Inc.,Industrials,2018-04-02,True
+AMG,Affiliated Managers Group Inc,Financials,2017-03-08,True
+AMGN,Amgen Inc,Health Care,2017-03-08,True
+AMGN,Amgen Inc.,Health Care,2018-04-02,True
+AMP,Ameriprise Financial,Financials,2017-03-08,True
+AMT,American Tower Corp A,Real Estate,2017-03-08,True
+AMT,American Tower Corp.,Real Estate,2020-05-10,True
+AMZN,Amazon.com Inc,Consumer Discretionary,2017-03-08,True
+AMZN,Amazon.com Inc.,Consumer Discretionary,2018-04-02,True
+AN,AutoNation Inc,Consumer Discretionary,2017-03-08,True
+ANDV,Andeavor,Energy,2018-04-02,True
+ANET,Arista Networks,Information Technology,2020-05-10,False
+ANSS,ANSYS,Information Technology,2018-04-02,True
+ANTM,Anthem Inc.,Health Care,2017-03-08,True
+ANTM,Anthem,Health Care,2020-05-10,True
+AON,Aon plc,Financials,2017-03-08,True
+AOS,A.O. Smith Corp,Industrials,2018-04-02,True
+APA,Apache Corporation,Energy,2017-03-08,True
+APC,Anadarko Petroleum Corp,Energy,2017-03-08,True
+APD,Air Products & Chemicals Inc,Materials,2017-03-08,True
+APH,Amphenol Corp,Information Technology,2017-03-08,True
+APTV,Aptiv Plc,Consumer Discretionary,2018-04-02,True
+APTV,Aptiv PLC,Consumer Discretionary,2020-05-10,True
+ARE,Alexandria Real Estate Equities Inc,Real Estate,2018-04-02,True
+ARE,Alexandria Real Estate Equities,Real Estate,2020-05-10,True
+ARNC,Arconic Inc,Industrials,2017-03-08,True
+ARNC,Arconic Inc.,Industrials,2018-04-02,True
+ATO,Atmos Energy,Utilities,2020-05-10,False
+ATVI,Activision Blizzard,Information Technology,2017-03-08,True
+AVB,"AvalonBay Communities, Inc.",Real Estate,2017-03-08,True
+AVB,AvalonBay Communities Inc.,Real Estate,2020-05-10,True
+AVGO,Broadcom,Information Technology,2017-03-08,True
+AVGO,Broadcom Inc.,Information Technology,2020-05-10,True
+AVY,Avery Dennison Corp,Materials,2017-03-08,True
+AWK,American Water Works Company Inc,Utilities,2017-03-08,True
+AXP,American Express Co,Financials,2017-03-08,True
+AYI,Acuity Brands Inc,Industrials,2017-03-08,True
+AZO,AutoZone Inc,Consumer Discretionary,2017-03-08,True
+BA,Boeing Company,Industrials,2017-03-08,True
+BAC,Bank of America Corp,Financials,2017-03-08,True
+BAX,Baxter International Inc.,Health Care,2017-03-08,True
+BBBY,Bed Bath & Beyond,Consumer Discretionary,2017-03-08,True
+BBT,BB&T Corporation,Financials,2017-03-08,True
+BBY,Best Buy Co. Inc.,Consumer Discretionary,2017-03-08,True
+BCR,Bard (C.R.) Inc.,Health Care,2017-03-08,True
+BDX,Becton Dickinson,Health Care,2017-03-08,True
+BEN,Franklin Resources,Financials,2017-03-08,True
+BF.B,Brown-Forman Corp.,Consumer Staples,2017-03-08,True
+BHF,Brighthouse Financial Inc,Financials,2018-04-02,True
+BHGE,"Baker Hughes, a GE Company",Energy,2018-04-02,True
+BHI,Baker Hughes Inc,Energy,2017-03-08,False
+BIIB,BIOGEN IDEC Inc.,Health Care,2017-03-08,True
+BIIB,Biogen Inc.,Health Care,2018-04-02,True
+BK,The Bank of New York Mellon Corp.,Financials,2017-03-08,True
+BKNG,Booking Holdings Inc,Consumer Discretionary,2018-04-02,True
+BKR,Baker Hughes Co,Energy,2020-05-10,False
+BLK,BlackRock,Financials,2017-03-08,True
+BLL,Ball Corp,Materials,2017-03-08,True
+BMY,Bristol-Myers Squibb,Health Care,2017-03-08,True
+BR,Broadridge Financial Solutions,Information Technology,2020-05-10,False
+BRK.B,Berkshire Hathaway,Financials,2017-03-08,True
+BSX,Boston Scientific,Health Care,2017-03-08,True
+BWA,BorgWarner,Consumer Discretionary,2017-03-08,True
+BXP,Boston Properties,Real Estate,2017-03-08,True
+C,Citigroup Inc.,Financials,2017-03-08,True
+CA,"CA, Inc.",Information Technology,2017-03-08,True
+CAG,ConAgra Foods Inc.,Consumer Staples,2017-03-08,True
+CAG,Conagra Brands,Consumer Staples,2018-04-02,True
+CAH,Cardinal Health Inc.,Health Care,2017-03-08,True
+CARR,Carrier Global,Industrials,2020-05-10,False
+CAT,Caterpillar Inc.,Industrials,2017-03-08,True
+CB,Chubb Limited,Financials,2017-03-08,True
+CBG,CBRE Group,Real Estate,2017-03-08,False
+CBOE,CBOE Holdings,Financials,2017-03-08,True
+CBOE,Cboe Global Markets,Financials,2018-04-02,True
+CBRE,CBRE Group,Real Estate,2018-04-02,True
+CBS,CBS Corp.,Consumer Discretionary,2017-03-08,True
+CCI,Crown Castle International Corp.,Real Estate,2017-03-08,True
+CCL,Carnival Corp.,Consumer Discretionary,2017-03-08,True
+CDNS,Cadence Design Systems,Information Technology,2018-04-02,True
+CDW,CDW,Information Technology,2020-05-10,False
+CE,Celanese,Materials,2020-05-10,False
+CELG,Celgene Corp.,Health Care,2017-03-08,True
+CERN,Cerner,Health Care,2017-03-08,True
+CF,CF Industries Holdings Inc,Materials,2017-03-08,True
+CFG,Citizens Financial Group,Financials,2017-03-08,True
+CHD,Church & Dwight,Consumer Staples,2017-03-08,True
+CHK,Chesapeake Energy,Energy,2017-03-08,True
+CHRW,C. H. Robinson Worldwide,Industrials,2017-03-08,True
+CHTR,Charter Communications,Consumer Discretionary,2017-03-08,True
+CI,CIGNA Corp.,Health Care,2017-03-08,True
+CINF,Cincinnati Financial,Financials,2017-03-08,True
+CL,Colgate-Palmolive,Consumer Staples,2017-03-08,True
+CLX,The Clorox Company,Consumer Staples,2017-03-08,True
+CMA,Comerica Inc.,Financials,2017-03-08,True
+CMCSA,Comcast Corp.,Consumer Discretionary,2017-03-08,True
+CME,CME Group Inc.,Financials,2017-03-08,True
+CMG,Chipotle Mexican Grill,Consumer Discretionary,2017-03-08,True
+CMI,Cummins Inc.,Industrials,2017-03-08,True
+CMS,CMS Energy,Utilities,2017-03-08,True
+CNC,Centene Corporation,Health Care,2017-03-08,True
+CNP,CenterPoint Energy,Utilities,2017-03-08,True
+COF,Capital One Financial,Financials,2017-03-08,True
+COG,Cabot Oil & Gas,Energy,2017-03-08,True
+COH,Coach Inc.,Consumer Discretionary,2017-03-08,False
+COL,Rockwell Collins,Industrials,2017-03-08,True
+COO,The Cooper Companies,Health Care,2017-03-08,True
+COP,ConocoPhillips,Energy,2017-03-08,True
+COST,Costco Co.,Consumer Staples,2017-03-08,True
+COST,Costco Wholesale Corp.,Consumer Staples,2018-04-02,True
+COTY,"Coty, Inc",Consumer Staples,2017-03-08,True
+COTY,Coty Inc,Consumer Staples,2020-05-10,True
+CPB,Campbell Soup,Consumer Staples,2017-03-08,True
+CPRI,Capri Holdings,Consumer Discretionary,2020-05-10,True
+CPRT,Copart Inc,Industrials,2020-05-10,False
+CRM,Salesforce.com,Information Technology,2017-03-08,True
+CSCO,Cisco Systems,Information Technology,2017-03-08,True
+CSRA,CSRA Inc.,Information Technology,2017-03-08,True
+CSX,CSX Corp.,Industrials,2017-03-08,True
+CTAS,Cintas Corporation,Industrials,2017-03-08,True
+CTL,CenturyLink Inc,Telecommunications Services,2017-03-08,True
+CTSH,Cognizant Technology Solutions,Information Technology,2017-03-08,True
+CTVA,Corteva,Materials,2020-05-10,False
+CTXS,Citrix Systems,Information Technology,2017-03-08,True
+CVS,CVS Health,Consumer Staples,2017-03-08,True
+CVX,Chevron Corp.,Energy,2017-03-08,True
+CXO,Concho Resources,Energy,2017-03-08,True
+D,Dominion Resources,Utilities,2017-03-08,True
+D,Dominion Energy,Utilities,2018-04-02,True
+DAL,Delta Air Lines,Industrials,2017-03-08,True
+DAL,Delta Air Lines Inc.,Industrials,2018-04-02,True
+DD,Du Pont (E.I.),Materials,2017-03-08,True
+DD,DuPont de Nemours Inc,Materials,2020-05-10,True
+DE,Deere & Co.,Industrials,2017-03-08,True
+DFS,Discover Financial Services,Financials,2017-03-08,True
+DG,Dollar General,Consumer Discretionary,2017-03-08,True
+DGX,Quest Diagnostics,Health Care,2017-03-08,True
+DHI,D. R. Horton,Consumer Discretionary,2017-03-08,True
+DHR,Danaher Corp.,Health Care,2017-03-08,True
+DIS,The Walt Disney Company,Consumer Discretionary,2017-03-08,True
+DISCA,Discovery Communications-A,Consumer Discretionary,2017-03-08,True
+DISCA,Discovery Inc. Class A,Consumer Discretionary,2018-04-02,True
+DISCK,Discovery Communications-C,Consumer Discretionary,2017-03-08,True
+DISCK,Discovery Inc. Class C,Consumer Discretionary,2018-04-02,True
+DISH,Dish Network,Consumer Discretionary,2018-04-02,True
+DLPH,Delphi Automotive,Consumer Discretionary,2017-03-08,False
+DLR,Digital Realty Trust,Real Estate,2017-03-08,True
+DLR,Digital Realty Trust Inc,Real Estate,2018-04-02,True
+DLTR,Dollar Tree,Consumer Discretionary,2017-03-08,True
+DNB,Dun & Bradstreet,Industrials,2017-03-08,True
+DOV,Dover Corp.,Industrials,2017-03-08,True
+DOV,Dover Corporation,Industrials,2020-05-10,True
+DOW,Dow Chemical,Materials,2017-03-08,True
+DOW,Dow Inc.,Materials,2020-05-10,True
+DPS,Dr Pepper Snapple Group,Consumer Staples,2017-03-08,False
+DRE,Duke Realty Corp,Real Estate,2018-04-02,True
+DRI,Darden Restaurants,Consumer Discretionary,2017-03-08,True
+DTE,DTE Energy Co.,Utilities,2017-03-08,True
+DUK,Duke Energy,Utilities,2017-03-08,True
+DVA,DaVita Inc.,Health Care,2017-03-08,True
+DVN,Devon Energy Corp.,Energy,2017-03-08,True
+DVN,Devon Energy,Energy,2020-05-10,True
+DWDP,DowDuPont,Materials,2018-04-02,True
+DXC,DXC Technology,Information Technology,2018-04-02,True
+EA,Electronic Arts,Information Technology,2017-03-08,True
+EBAY,eBay Inc.,Information Technology,2017-03-08,True
+ECL,Ecolab Inc.,Materials,2017-03-08,True
+ED,Consolidated Edison,Utilities,2017-03-08,True
+EFX,Equifax Inc.,Industrials,2017-03-08,True
+EIX,Edison Int'l,Utilities,2017-03-08,True
+EL,Estee Lauder Cos.,Consumer Staples,2017-03-08,True
+EL,Estée Lauder Companies,Consumer Staples,2020-05-10,True
+EMN,Eastman Chemical,Materials,2017-03-08,True
+EMR,Emerson Electric Company,Industrials,2017-03-08,True
+EOG,EOG Resources,Energy,2017-03-08,True
+EQIX,Equinix,Real Estate,2017-03-08,True
+EQR,Equity Residential,Real Estate,2017-03-08,True
+EQT,EQT Corporation,Energy,2017-03-08,True
+ES,Eversource Energy,Utilities,2017-03-08,True
+ESRX,Express Scripts,Health Care,2017-03-08,True
+ESS,"Essex Property Trust, Inc.",Real Estate,2017-03-08,True
+ESS,Essex Property Trust Inc.,Real Estate,2020-05-10,True
+ETFC,E*Trade,Financials,2017-03-08,True
+ETN,Eaton Corporation,Industrials,2017-03-08,True
+ETR,Entergy Corp.,Utilities,2017-03-08,True
+EVHC,Envision Healthcare,Health Care,2017-03-08,True
+EVRG,Evergy,Utilities,2020-05-10,False
+EW,Edwards Lifesciences,Health Care,2017-03-08,True
+EXC,Exelon Corp.,Utilities,2017-03-08,True
+EXPD,Expeditors Int'l,Industrials,2017-03-08,True
+EXPD,Expeditors International,Industrials,2018-04-02,True
+EXPD,Expeditors,Industrials,2020-05-10,True
+EXPE,Expedia Inc.,Consumer Discretionary,2017-03-08,True
+EXPE,Expedia Group,Consumer Discretionary,2020-05-10,True
+EXR,Extra Space Storage,Real Estate,2017-03-08,True
+F,Ford Motor,Consumer Discretionary,2017-03-08,True
+F,Ford Motor Company,Consumer Discretionary,2020-05-10,True
+FANG,Diamondback Energy,Energy,2020-05-10,False
+FAST,Fastenal Co,Industrials,2017-03-08,True
+FB,"Facebook, Inc.",Information Technology,2017-03-08,True
+FB,Facebook Inc.,Communication Services,2020-05-10,True
+FBHS,Fortune Brands Home & Security,Industrials,2017-03-08,True
+FCX,Freeport-McMoRan Inc.,Materials,2017-03-08,True
+FDX,FedEx Corporation,Industrials,2017-03-08,True
+FE,FirstEnergy Corp,Utilities,2017-03-08,True
+FFIV,F5 Networks,Information Technology,2017-03-08,True
+FIS,Fidelity National Information Services,Information Technology,2017-03-08,True
+FISV,Fiserv Inc,Information Technology,2017-03-08,True
+FITB,Fifth Third Bancorp,Financials,2017-03-08,True
+FL,Foot Locker Inc,Consumer Discretionary,2017-03-08,True
+FLIR,FLIR Systems,Information Technology,2017-03-08,True
+FLR,Fluor Corp.,Industrials,2017-03-08,True
+FLS,Flowserve Corporation,Industrials,2017-03-08,True
+FLT,FleetCor Technologies Inc,Information Technology,2020-05-10,False
+FMC,FMC Corporation,Materials,2017-03-08,True
+FOX,Twenty-First Century Fox Class B,Consumer Discretionary,2017-03-08,True
+FOX,Fox Corporation Class B,Communication Services,2020-05-10,True
+FOXA,Twenty-First Century Fox Class A,Consumer Discretionary,2017-03-08,True
+FOXA,Fox Corporation Class A,Communication Services,2020-05-10,True
+FRC,First Republic Bank,Financials,2020-05-10,False
+FRT,Federal Realty Investment Trust,Real Estate,2017-03-08,True
+FSLR,First Solar Inc,Information Technology,2017-03-08,True
+FTI,FMC Technologies Inc.,Energy,2017-03-08,True
+FTI,TechnipFMC,Energy,2018-04-02,True
+FTNT,Fortinet,Information Technology,2020-05-10,False
+FTR,Frontier Communications,Telecommunications Services,2017-03-08,True
+FTV,Fortive Corp,Industrials,2017-03-08,True
+GD,General Dynamics,Industrials,2017-03-08,True
+GE,General Electric,Industrials,2017-03-08,True
+GGP,General Growth Properties Inc.,Real Estate,2017-03-08,True
+GILD,Gilead Sciences,Health Care,2017-03-08,True
+GIS,General Mills,Consumer Staples,2017-03-08,True
+GL,Globe Life Inc.,Financials,2020-05-10,False
+GLW,Corning Inc.,Information Technology,2017-03-08,True
+GM,General Motors,Consumer Discretionary,2017-03-08,True
+GOOG,Alphabet Inc Class C,Information Technology,2017-03-08,True
+GOOGL,Alphabet Inc Class A,Information Technology,2017-03-08,True
+GPC,Genuine Parts,Consumer Discretionary,2017-03-08,True
+GPN,Global Payments Inc,Information Technology,2017-03-08,True
+GPN,Global Payments Inc.,Information Technology,2018-04-02,True
+GPS,Gap (The),Consumer Discretionary,2017-03-08,True
+GPS,Gap Inc.,Consumer Discretionary,2018-04-02,True
+GRMN,Garmin Ltd.,Consumer Discretionary,2017-03-08,True
+GS,Goldman Sachs Group,Financials,2017-03-08,True
+GT,Goodyear Tire & Rubber,Consumer Discretionary,2017-03-08,True
+GWW,Grainger (W.W.) Inc.,Industrials,2017-03-08,True
+HAL,Halliburton Co.,Energy,2017-03-08,True
+HAR,Harman Int'l Industries,Consumer Discretionary,2017-03-08,True
+HAS,Hasbro Inc.,Consumer Discretionary,2017-03-08,True
+HBAN,Huntington Bancshares,Financials,2017-03-08,True
+HBI,Hanesbrands Inc,Consumer Discretionary,2017-03-08,True
+HCA,HCA Holdings,Health Care,2017-03-08,True
+HCA,HCA Healthcare,Health Care,2020-05-10,True
+HCN,Welltower Inc.,Real Estate,2017-03-08,False
+HCP,HCP Inc.,Real Estate,2017-03-08,True
+HD,Home Depot,Consumer Discretionary,2017-03-08,True
+HES,Hess Corporation,Energy,2017-03-08,True
+HFC,HollyFrontier Corp,Energy,2020-05-10,False
+HIG,Hartford Financial Svc.Gp.,Financials,2017-03-08,True
+HII,Huntington Ingalls Industries,Industrials,2018-04-02,False
+HLT,Hilton Worldwide Holdings Inc,Consumer Discretionary,2018-04-02,True
+HOG,Harley-Davidson,Consumer Discretionary,2017-03-08,True
+HOLX,Hologic,Health Care,2017-03-08,True
+HON,Honeywell Int'l Inc.,Industrials,2017-03-08,True
+HP,Helmerich & Payne,Energy,2017-03-08,True
+HPE,Hewlett Packard Enterprise,Information Technology,2017-03-08,True
+HPQ,HP Inc.,Information Technology,2017-03-08,True
+HRB,Block H&R,Financials,2017-03-08,True
+HRB,H&R Block,Consumer Discretionary,2020-05-10,True
+HRL,Hormel Foods Corp.,Consumer Staples,2017-03-08,True
+HRS,Harris Corporation,Information Technology,2017-03-08,True
+HSIC,Henry Schein,Health Care,2017-03-08,True
+HST,Host Hotels & Resorts,Real Estate,2017-03-08,True
+HSY,The Hershey Company,Consumer Staples,2017-03-08,True
+HUM,Humana Inc.,Health Care,2017-03-08,True
+HWM,Howmet Aerospace,Industrials,2020-05-10,False
+IBM,International Business Machines,Information Technology,2017-03-08,True
+ICE,Intercontinental Exchange,Financials,2017-03-08,True
+IDXX,IDEXX Laboratories,Health Care,2017-03-08,True
+IEX,IDEX Corporation,Industrials,2020-05-10,False
+IFF,Intl Flavors & Fragrances,Materials,2017-03-08,True
+ILMN,Illumina Inc,Health Care,2017-03-08,True
+INCY,Incyte,Health Care,2017-03-08,True
+INFO,IHS Markit Ltd.,Industrials,2018-04-02,True
+INTC,Intel Corp.,Information Technology,2017-03-08,True
+INTU,Intuit Inc.,Information Technology,2017-03-08,True
+IP,International Paper,Materials,2017-03-08,True
+IPG,Interpublic Group,Consumer Discretionary,2017-03-08,True
+IPGP,IPG Photonics Corp.,Information Technology,2018-04-02,False
+IQV,IQVIA Holdings Inc.,Health Care,2018-04-02,True
+IR,Ingersoll-Rand PLC,Industrials,2017-03-08,True
+IR,Ingersoll Rand,Industrials,2020-05-10,True
+IRM,Iron Mountain Incorporated,Real Estate,2017-03-08,True
+ISRG,Intuitive Surgical Inc.,Health Care,2017-03-08,True
+IT,Gartner Inc,Information Technology,2018-04-02,True
+ITW,Illinois Tool Works,Industrials,2017-03-08,True
+IVZ,Invesco Ltd.,Financials,2017-03-08,True
+J,Jacobs Engineering Group,Industrials,2020-05-10,False
+JBHT,J. B. Hunt Transport Services,Industrials,2017-03-08,True
+JCI,Johnson Controls International,Industrials,2017-03-08,True
+JEC,Jacobs Engineering Group,Industrials,2017-03-08,True
+JKHY,Jack Henry & Associates,Information Technology,2020-05-10,False
+JNJ,Johnson & Johnson,Health Care,2017-03-08,True
+JNPR,Juniper Networks,Information Technology,2017-03-08,True
+JPM,JPMorgan Chase & Co.,Financials,2017-03-08,True
+JWN,Nordstrom,Consumer Discretionary,2017-03-08,True
+K,Kellogg Co.,Consumer Staples,2017-03-08,True
+KEY,KeyCorp,Financials,2017-03-08,True
+KEYS,Keysight Technologies,Information Technology,2020-05-10,False
+KHC,Kraft Heinz Co,Consumer Staples,2017-03-08,True
+KIM,Kimco Realty,Real Estate,2017-03-08,True
+KLAC,KLA-Tencor Corp.,Information Technology,2017-03-08,True
+KLAC,KLA Corporation,Information Technology,2020-05-10,True
+KMB,Kimberly-Clark,Consumer Staples,2017-03-08,True
+KMI,Kinder Morgan,Energy,2017-03-08,True
+KMX,Carmax Inc,Consumer Discretionary,2017-03-08,True
+KO,Coca Cola Company,Consumer Staples,2017-03-08,True
+KO,Coca-Cola Company (The),Consumer Staples,2018-04-02,True
+KO,Coca-Cola Company,Consumer Staples,2020-05-10,True
+KORS,Michael Kors Holdings,Consumer Discretionary,2017-03-08,True
+KR,Kroger Co.,Consumer Staples,2017-03-08,True
+KSS,Kohl's Corp.,Consumer Discretionary,2017-03-08,True
+KSU,Kansas City Southern,Industrials,2017-03-08,True
+L,Loews Corp.,Financials,2017-03-08,True
+LB,L Brands Inc.,Consumer Discretionary,2017-03-08,True
+LDOS,Leidos Holdings,Information Technology,2020-05-10,False
+LEG,Leggett & Platt,Consumer Discretionary,2017-03-08,True
+LEN,Lennar Corp.,Consumer Discretionary,2017-03-08,True
+LH,Laboratory Corp. of America Holding,Health Care,2017-03-08,True
+LHX,L3Harris Technologies,Industrials,2020-05-10,False
+LIN,Linde plc,Materials,2020-05-10,False
+LKQ,LKQ Corporation,Consumer Discretionary,2017-03-08,True
+LLL,L-3 Communications Holdings,Industrials,2017-03-08,True
+LLTC,Linear Technology Corp.,Information Technology,2017-03-08,True
+LLY,Lilly (Eli) & Co.,Health Care,2017-03-08,True
+LMT,Lockheed Martin Corp.,Industrials,2017-03-08,True
+LNC,Lincoln National,Financials,2017-03-08,True
+LNT,Alliant Energy Corp,Utilities,2017-03-08,True
+LOW,Lowe's Cos.,Consumer Discretionary,2017-03-08,True
+LRCX,Lam Research,Information Technology,2017-03-08,True
+LUK,Leucadia National Corp.,Financials,2017-03-08,False
+LUV,Southwest Airlines,Industrials,2017-03-08,True
+LVLT,Level 3 Communications,Telecommunications Services,2017-03-08,True
+LVS,Las Vegas Sands,Consumer Discretionary,2020-05-10,False
+LW,Lamb Weston Holdings Inc,Consumer Staples,2020-05-10,False
+LYB,LyondellBasell,Materials,2017-03-08,True
+LYV,Live Nation Entertainment,Communication Services,2020-05-10,False
+M,Macy's Inc.,Consumer Discretionary,2017-03-08,True
+MA,Mastercard Inc.,Information Technology,2017-03-08,True
+MAA,Mid-America Apartments,Real Estate,2017-03-08,True
+MAC,Macerich,Real Estate,2017-03-08,True
+MAR,Marriott Int'l.,Consumer Discretionary,2017-03-08,True
+MAS,Masco Corp.,Industrials,2017-03-08,True
+MAT,Mattel Inc.,Consumer Discretionary,2017-03-08,True
+MCD,McDonald's Corp.,Consumer Discretionary,2017-03-08,True
+MCHP,Microchip Technology,Information Technology,2017-03-08,True
+MCK,McKesson Corp.,Health Care,2017-03-08,True
+MCO,Moody's Corp,Financials,2017-03-08,True
+MDLZ,Mondelez International,Consumer Staples,2017-03-08,True
+MDT,Medtronic plc,Health Care,2017-03-08,True
+MET,MetLife Inc.,Financials,2017-03-08,True
+MGM,MGM Resorts International,Consumer Discretionary,2018-04-02,True
+MHK,Mohawk Industries,Consumer Discretionary,2017-03-08,True
+MJN,Mead Johnson,Consumer Staples,2017-03-08,True
+MKC,McCormick & Co.,Consumer Staples,2017-03-08,True
+MKTX,MarketAxess,Financials,2020-05-10,False
+MLM,Martin Marietta Materials,Materials,2017-03-08,True
+MMC,Marsh & McLennan,Financials,2017-03-08,True
+MMM,3M Company,Industrials,2017-03-08,True
+MNK,Mallinckrodt Plc,Health Care,2017-03-08,True
+MNST,Monster Beverage,Consumer Staples,2017-03-08,True
+MO,Altria Group Inc,Consumer Staples,2017-03-08,True
+MON,Monsanto Co.,Materials,2017-03-08,True
+MOS,The Mosaic Company,Materials,2017-03-08,True
+MPC,Marathon Petroleum,Energy,2017-03-08,True
+MRK,Merck & Co.,Health Care,2017-03-08,True
+MRO,Marathon Oil Corp.,Energy,2017-03-08,True
+MS,Morgan Stanley,Financials,2017-03-08,True
+MSCI,MSCI Inc,Financials,2020-05-10,False
+MSFT,Microsoft Corp.,Information Technology,2017-03-08,True
+MSI,Motorola Solutions Inc.,Information Technology,2017-03-08,True
+MTB,M&T Bank Corp.,Financials,2017-03-08,True
+MTD,Mettler Toledo,Health Care,2017-03-08,True
+MU,Micron Technology,Information Technology,2017-03-08,True
+MUR,Murphy Oil,Energy,2017-03-08,True
+MXIM,Maxim Integrated Products Inc,Information Technology,2020-05-10,False
+MYL,Mylan N.V.,Health Care,2017-03-08,True
+NAVI,Navient,Financials,2017-03-08,True
+NBL,Noble Energy Inc,Energy,2017-03-08,True
+NCLH,Norwegian Cruise Line,Consumer Discretionary,2018-04-02,True
+NCLH,Norwegian Cruise Line Holdings,Consumer Discretionary,2020-05-10,True
+NDAQ,NASDAQ OMX Group,Financials,2017-03-08,True
+NDAQ,"Nasdaq, Inc.",Financials,2018-04-02,True
+NDAQ,Nasdaq Inc.,Financials,2020-05-10,True
+NEE,NextEra Energy,Utilities,2017-03-08,True
+NEM,Newmont Mining Corp. (Hldg. Co.),Materials,2017-03-08,True
+NEM,Newmont Mining Corporation,Materials,2018-04-02,True
+NEM,Newmont Corporation,Materials,2020-05-10,True
+NFLX,Netflix Inc.,Information Technology,2017-03-08,True
+NFX,Newfield Exploration Co,Energy,2017-03-08,True
+NI,NiSource Inc.,Utilities,2017-03-08,True
+NKE,Nike,Consumer Discretionary,2017-03-08,True
+NKTR,Nektar Therapeutics,Health Care,2018-04-02,False
+NLOK,NortonLifeLock,Information Technology,2020-05-10,False
+NLSN,Nielsen Holdings,Industrials,2017-03-08,True
+NOC,Northrop Grumman Corp.,Industrials,2017-03-08,True
+NOC,Northrop Grumman,Industrials,2020-05-10,True
+NOV,National Oilwell Varco Inc.,Energy,2017-03-08,True
+NOW,ServiceNow,Information Technology,2020-05-10,False
+NRG,NRG Energy,Utilities,2017-03-08,True
+NSC,Norfolk Southern Corp.,Industrials,2017-03-08,True
+NTAP,NetApp,Information Technology,2017-03-08,True
+NTRS,Northern Trust Corp.,Financials,2017-03-08,True
+NUE,Nucor Corp.,Materials,2017-03-08,True
+NVDA,Nvidia Corporation,Information Technology,2017-03-08,True
+NVR,NVR Inc,Consumer Discretionary,2020-05-10,False
+NWL,Newell Brands,Consumer Discretionary,2017-03-08,True
+NWS,News Corp. Class B,Consumer Discretionary,2017-03-08,True
+NWSA,News Corp. Class A,Consumer Discretionary,2017-03-08,True
+O,Realty Income Corporation,Real Estate,2017-03-08,True
+ODFL,Old Dominion Freight Line,Industrials,2020-05-10,False
+OKE,ONEOK,Energy,2017-03-08,True
+OMC,Omnicom Group,Consumer Discretionary,2017-03-08,True
+ORCL,Oracle Corp.,Information Technology,2017-03-08,True
+ORLY,O'Reilly Automotive,Consumer Discretionary,2017-03-08,True
+OTIS,Otis Worldwide,Industrials,2020-05-10,False
+OXY,Occidental Petroleum,Energy,2017-03-08,True
+PAYC,Paycom,Information Technology,2020-05-10,False
+PAYX,Paychex Inc.,Information Technology,2017-03-08,True
+PBCT,People's United Financial,Financials,2017-03-08,True
+PCAR,PACCAR Inc.,Industrials,2017-03-08,True
+PCG,PG&E Corp.,Utilities,2017-03-08,True
+PCLN,Priceline.com Inc,Consumer Discretionary,2017-03-08,False
+PDCO,Patterson Companies,Health Care,2017-03-08,True
+PEAK,Healthpeak Properties,Real Estate,2020-05-10,False
+PEG,Public Serv. Enterprise Inc.,Utilities,2017-03-08,True
+PEP,PepsiCo Inc.,Consumer Staples,2017-03-08,True
+PFE,Pfizer Inc.,Health Care,2017-03-08,True
+PFG,Principal Financial Group,Financials,2017-03-08,True
+PG,Procter & Gamble,Consumer Staples,2017-03-08,True
+PGR,Progressive Corp.,Financials,2017-03-08,True
+PH,Parker-Hannifin,Industrials,2017-03-08,True
+PHM,Pulte Homes Inc.,Consumer Discretionary,2017-03-08,True
+PHM,PulteGroup,Consumer Discretionary,2020-05-10,True
+PKG,Packaging Corporation of America,Materials,2018-04-02,True
+PKI,PerkinElmer,Health Care,2017-03-08,True
+PLD,Prologis,Real Estate,2017-03-08,True
+PM,Philip Morris International,Consumer Staples,2017-03-08,True
+PNC,PNC Financial Services,Financials,2017-03-08,True
+PNR,Pentair Ltd.,Industrials,2017-03-08,True
+PNR,Pentair plc,Industrials,2020-05-10,True
+PNW,Pinnacle West Capital,Utilities,2017-03-08,True
+PPG,PPG Industries,Materials,2017-03-08,True
+PPL,PPL Corp.,Utilities,2017-03-08,True
+PRGO,Perrigo,Health Care,2017-03-08,True
+PRU,Prudential Financial,Financials,2017-03-08,True
+PSA,Public Storage,Real Estate,2017-03-08,True
+PSX,Phillips 66,Energy,2017-03-08,True
+PVH,PVH Corp.,Consumer Discretionary,2017-03-08,True
+PWR,Quanta Services Inc.,Industrials,2017-03-08,True
+PX,Praxair Inc.,Materials,2017-03-08,True
+PXD,Pioneer Natural Resources,Energy,2017-03-08,True
+PYPL,PayPal,Information Technology,2017-03-08,True
+QCOM,QUALCOMM Inc.,Information Technology,2017-03-08,True
+QRVO,Qorvo,Information Technology,2017-03-08,True
+R,Ryder System,Industrials,2017-03-08,True
+RAI,Reynolds American Inc.,Consumer Staples,2017-03-08,True
+RCL,Royal Caribbean Cruises Ltd,Consumer Discretionary,2017-03-08,True
+RE,Everest Re Group Ltd.,Financials,2018-04-02,True
+REG,Regency Centers Corporation,Real Estate,2017-03-08,True
+REGN,Regeneron,Health Care,2017-03-08,True
+REGN,Regeneron Pharmaceuticals,Health Care,2020-05-10,True
+RF,Regions Financial Corp.,Financials,2017-03-08,True
+RHI,Robert Half International,Industrials,2017-03-08,True
+RHT,Red Hat Inc.,Information Technology,2017-03-08,True
+RIG,Transocean,Energy,2017-03-08,True
+RJF,Raymond James Financial Inc.,Financials,2018-04-02,True
+RL,Polo Ralph Lauren Corp.,Consumer Discretionary,2017-03-08,True
+RL,Ralph Lauren Corporation,Consumer Discretionary,2020-05-10,True
+RMD,ResMed,Health Care,2018-04-02,True
+ROK,Rockwell Automation Inc.,Industrials,2017-03-08,True
+ROL,Rollins Inc.,Industrials,2020-05-10,False
+ROP,Roper Industries,Industrials,2017-03-08,True
+ROP,Roper Technologies,Industrials,2018-04-02,True
+ROST,Ross Stores,Consumer Discretionary,2017-03-08,True
+RRC,Range Resources Corp.,Energy,2017-03-08,True
+RSG,Republic Services Inc,Industrials,2017-03-08,True
+RTN,Raytheon Co.,Industrials,2017-03-08,True
+RTX,Raytheon Technologies,Industrials,2020-05-10,False
+SBAC,SBA Communications,Real Estate,2018-04-02,True
+SBUX,Starbucks Corp.,Consumer Discretionary,2017-03-08,True
+SCG,SCANA Corp,Utilities,2017-03-08,True
+SCHW,Charles Schwab Corporation,Financials,2017-03-08,True
+SEE,Sealed Air,Materials,2017-03-08,True
+SHW,Sherwin-Williams,Materials,2017-03-08,True
+SIG,Signet Jewelers,Consumer Discretionary,2017-03-08,True
+SIVB,SVB Financial,Financials,2018-04-02,False
+SJM,JM Smucker,Consumer Staples,2017-03-08,True
+SLB,Schlumberger Ltd.,Energy,2017-03-08,True
+SLG,SL Green Realty,Real Estate,2017-03-08,True
+SNA,Snap-On Inc.,Consumer Discretionary,2017-03-08,True
+SNA,Snap-on,Industrials,2020-05-10,True
+SNI,Scripps Networks Interactive Inc.,Consumer Discretionary,2017-03-08,True
+SNPS,Synopsys Inc.,Information Technology,2018-04-02,True
+SO,Southern Co.,Utilities,2017-03-08,True
+SO,Southern Company,Utilities,2020-05-10,True
+SPG,Simon Property Group Inc,Real Estate,2017-03-08,True
+SPGI,"S&P Global, Inc.",Financials,2017-03-08,True
+SPGI,S&P Global Inc.,Financials,2020-05-10,True
+SPLS,Staples Inc.,Consumer Discretionary,2017-03-08,True
+SRCL,Stericycle Inc,Industrials,2017-03-08,True
+SRE,Sempra Energy,Utilities,2017-03-08,True
+STE,STERIS plc,Health Care,2020-05-10,False
+STI,SunTrust Banks,Financials,2017-03-08,True
+STT,State Street Corp.,Financials,2017-03-08,True
+STX,Seagate Technology,Information Technology,2017-03-08,True
+STZ,Constellation Brands,Consumer Staples,2017-03-08,True
+SWK,Stanley Black & Decker,Consumer Discretionary,2017-03-08,True
+SWKS,Skyworks Solutions,Information Technology,2017-03-08,True
+SWN,Southwestern Energy,Energy,2017-03-08,True
+SYF,Synchrony Financial,Financials,2017-03-08,True
+SYK,Stryker Corp.,Health Care,2017-03-08,True
+SYMC,Symantec Corp.,Information Technology,2017-03-08,True
+SYY,Sysco Corp.,Consumer Staples,2017-03-08,True
+T,AT&T Inc,Telecommunications Services,2017-03-08,True
+T,AT&T Inc.,Telecommunication Services,2018-04-02,True
+TAP,Molson Coors Brewing Company,Consumer Staples,2017-03-08,True
+TDC,Teradata Corp.,Information Technology,2017-03-08,True
+TDG,TransDigm Group,Industrials,2017-03-08,True
+TEL,TE Connectivity Ltd.,Information Technology,2017-03-08,True
+TFC,Truist Financial,Financials,2020-05-10,False
+TFX,Teleflex,Health Care,2020-05-10,False
+TGNA,"Tegna, Inc.",Consumer Discretionary,2017-03-08,True
+TGT,Target Corp.,Consumer Discretionary,2017-03-08,True
+TIF,Tiffany & Co.,Consumer Discretionary,2017-03-08,True
+TJX,TJX Companies Inc.,Consumer Discretionary,2017-03-08,True
+TMK,Torchmark Corp.,Financials,2017-03-08,True
+TMO,Thermo Fisher Scientific,Health Care,2017-03-08,True
+TMUS,T-Mobile US,Communication Services,2020-05-10,False
+TPR,"Tapestry, Inc.",Consumer Discretionary,2018-04-02,True
+TPR,Tapestry Inc.,Consumer Discretionary,2020-05-10,True
+TRIP,TripAdvisor,Consumer Discretionary,2017-03-08,True
+TROW,T. Rowe Price Group,Financials,2017-03-08,True
+TRV,The Travelers Companies Inc.,Financials,2017-03-08,True
+TSCO,Tractor Supply Company,Consumer Discretionary,2017-03-08,True
+TSN,Tyson Foods,Consumer Staples,2017-03-08,True
+TSO,Tesoro Petroleum Co.,Energy,2017-03-08,False
+TSS,Total System Services,Information Technology,2017-03-08,True
+TT,Trane Technologies plc,Industrials,2020-05-10,False
+TTWO,Take-Two Interactive,Information Technology,2018-04-02,False
+TWTR,Twitter Inc.,Communication Services,2020-05-10,False
+TWX,Time Warner Inc.,Consumer Discretionary,2017-03-08,True
+TXN,Texas Instruments,Information Technology,2017-03-08,True
+TXT,Textron Inc.,Industrials,2017-03-08,True
+UA,Under Armour,Consumer Discretionary,2017-03-08,True
+UA,Under Armour Class C,Consumer Discretionary,2018-04-02,True
+UAA,Under Armour,Consumer Discretionary,2017-03-08,True
+UAA,Under Armour Class A,Consumer Discretionary,2018-04-02,True
+UAL,United Continental Holdings,Industrials,2017-03-08,True
+UAL,United Airlines Holdings,Industrials,2020-05-10,True
+UDR,UDR Inc,Real Estate,2017-03-08,True
+UDR,UDR Inc.,Real Estate,2020-05-10,True
+UHS,"Universal Health Services, Inc.",Health Care,2017-03-08,True
+UHS,Universal Health Services Inc.,Health Care,2020-05-10,True
+ULTA,Ulta Salon Cosmetics & Fragrance Inc,Consumer Discretionary,2017-03-08,True
+ULTA,Ulta Beauty,Consumer Discretionary,2018-04-02,True
+UNH,United Health Group Inc.,Health Care,2017-03-08,True
+UNM,Unum Group,Financials,2017-03-08,True
+UNP,Union Pacific,Industrials,2017-03-08,True
+UNP,Union Pacific Corp,Industrials,2020-05-10,True
+UPS,United Parcel Service,Industrials,2017-03-08,True
+URBN,Urban Outfitters,Consumer Discretionary,2017-03-08,True
+URI,"United Rentals, Inc.",Industrials,2017-03-08,True
+URI,United Rentals Inc.,Industrials,2020-05-10,True
+USB,U.S. Bancorp,Financials,2017-03-08,True
+UTX,United Technologies,Industrials,2017-03-08,True
+V,Visa Inc.,Information Technology,2017-03-08,True
+VAR,Varian Medical Systems,Health Care,2017-03-08,True
+VFC,V.F. Corp.,Consumer Discretionary,2017-03-08,True
+VIAB,Viacom Inc.,Consumer Discretionary,2017-03-08,True
+VIAC,ViacomCBS,Communication Services,2020-05-10,False
+VLO,Valero Energy,Energy,2017-03-08,True
+VMC,Vulcan Materials,Materials,2017-03-08,True
+VNO,Vornado Realty Trust,Real Estate,2017-03-08,True
+VRSK,Verisk Analytics,Industrials,2017-03-08,True
+VRSN,Verisign Inc.,Information Technology,2017-03-08,True
+VRTX,Vertex Pharmaceuticals Inc,Health Care,2017-03-08,True
+VTR,Ventas Inc,Real Estate,2017-03-08,True
+VZ,Verizon Communications,Telecommunications Services,2017-03-08,True
+WAB,Wabtec Corporation,Industrials,2020-05-10,False
+WAT,Waters Corporation,Health Care,2017-03-08,True
+WBA,Walgreens Boots Alliance,Consumer Staples,2017-03-08,True
+WDC,Western Digital,Information Technology,2017-03-08,True
+WEC,Wec Energy Group Inc,Utilities,2017-03-08,True
+WEC,WEC Energy Group,Utilities,2020-05-10,True
+WELL,Welltower Inc.,Real Estate,2018-04-02,True
+WFC,Wells Fargo,Financials,2017-03-08,True
+WFM,Whole Foods Market,Consumer Staples,2017-03-08,True
+WHR,Whirlpool Corp.,Consumer Discretionary,2017-03-08,True
+WLTW,Willis Towers Watson,Financials,2017-03-08,True
+WM,Waste Management Inc.,Industrials,2017-03-08,True
+WMB,Williams Cos.,Energy,2017-03-08,True
+WMT,Wal-Mart Stores,Consumer Staples,2017-03-08,True
+WMT,Walmart,Consumer Staples,2020-05-10,True
+WRB,W. R. Berkley Corporation,Financials,2020-05-10,False
+WRK,WestRock Company,Materials,2017-03-08,True
+WRK,WestRock,Materials,2020-05-10,True
+WU,Western Union Co,Information Technology,2017-03-08,True
+WY,Weyerhaeuser Corp.,Real Estate,2017-03-08,True
+WY,Weyerhaeuser,Real Estate,2020-05-10,True
+WYN,Wyndham Worldwide,Consumer Discretionary,2017-03-08,False
+WYNN,Wynn Resorts Ltd,Consumer Discretionary,2017-03-08,True
+XEC,Cimarex Energy,Energy,2017-03-08,True
+XEL,Xcel Energy Inc,Utilities,2017-03-08,True
+XL,XL Capital,Financials,2017-03-08,True
+XLNX,Xilinx Inc,Information Technology,2017-03-08,True
+XLNX,Xilinx,Information Technology,2020-05-10,True
+XOM,Exxon Mobil Corp.,Energy,2017-03-08,True
+XRAY,Dentsply Sirona,Health Care,2017-03-08,True
+XRX,Xerox Corp.,Information Technology,2017-03-08,True
+XRX,Xerox,Information Technology,2020-05-10,True
+XYL,Xylem Inc.,Industrials,2017-03-08,True
+YHOO,Yahoo Inc.,Information Technology,2017-03-08,False
+YUM,Yum! Brands Inc,Consumer Discretionary,2017-03-08,True
+ZBH,Zimmer Biomet Holdings,Health Care,2017-03-08,True
+ZBRA,Zebra Technologies,Information Technology,2020-05-10,False
+ZION,Zions Bancorp,Financials,2017-03-08,True
+ZTS,Zoetis,Health Care,2017-03-08,True
